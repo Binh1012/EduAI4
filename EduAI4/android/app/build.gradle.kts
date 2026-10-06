@@ -14,7 +14,7 @@ android {
         versionCode = 1
         versionName = "1.0"
         // Emulator -> your PC. For a real phone use your PC's LAN IP, e.g. http://192.168.1.10:8000/
-        buildConfigField("String", "API_BASE_URL", "\"http://10.0.2.2:8000/\"")
+        buildConfigField("String", "API_BASE_URL", "\"https://eduai4.onrender.com/\"")
     }
     buildFeatures { compose = true; buildConfig = true }
     compileOptions {
