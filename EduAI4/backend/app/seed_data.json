@@ -1,0 +1,369 @@
+[
+  {
+    "name": "Toán",
+    "icon": "📐",
+    "color": "#2f7bff",
+    "topics": [
+      {
+        "name": "Phép chia",
+        "questions": [
+          {
+            "text": "48 : 6 = ?",
+            "options": [
+              "6",
+              "7",
+              "8",
+              "9"
+            ],
+            "correct_index": 2,
+            "explanation": "Vì 6 × 8 = 48.",
+            "difficulty": 1
+          },
+          {
+            "text": "72 : 9 = ?",
+            "options": [
+              "7",
+              "8",
+              "9",
+              "6"
+            ],
+            "correct_index": 1,
+            "explanation": "Vì 9 × 8 = 72.",
+            "difficulty": 1
+          },
+          {
+            "text": "125 : 5 = ?",
+            "options": [
+              "20",
+              "25",
+              "30",
+              "15"
+            ],
+            "correct_index": 1,
+            "explanation": "Vì 5 × 25 = 125.",
+            "difficulty": 1
+          },
+          {
+            "text": "Số nào chia cho 1 cũng bằng chính nó.",
+            "options": [
+              "Đúng",
+              "Sai"
+            ],
+            "correct_index": 0,
+            "explanation": "Ví dụ 7 : 1 = 7.",
+            "difficulty": 1
+          },
+          {
+            "text": "360 : 4 = ?",
+            "options": [
+              "80",
+              "90",
+              "100",
+              "95"
+            ],
+            "correct_index": 1,
+            "explanation": "36 : 4 = 9, thêm một chữ số 0 được 90.",
+            "difficulty": 1
+          }
+        ]
+      },
+      {
+        "name": "Phân số",
+        "questions": [
+          {
+            "text": "1/2 lớn hơn 1/3.",
+            "options": [
+              "Đúng",
+              "Sai"
+            ],
+            "correct_index": 0,
+            "explanation": "Chia chiếc bánh thành 2 phần thì mỗi phần to hơn khi chia thành 3 phần.",
+            "difficulty": 1
+          },
+          {
+            "text": "Phân số nào bằng 1/2?",
+            "options": [
+              "2/3",
+              "2/4",
+              "3/5",
+              "1/4"
+            ],
+            "correct_index": 1,
+            "explanation": "2/4 rút gọn (chia cả tử và mẫu cho 2) được 1/2.",
+            "difficulty": 1
+          },
+          {
+            "text": "2/5 + 1/5 = ?",
+            "options": [
+              "3/10",
+              "3/5",
+              "2/5",
+              "1/5"
+            ],
+            "correct_index": 1,
+            "explanation": "Mẫu số giống nhau thì cộng các tử số: 2 + 1 = 3, giữ nguyên mẫu 5.",
+            "difficulty": 1
+          },
+          {
+            "text": "Phân số nào lớn nhất?",
+            "options": [
+              "1/4",
+              "1/2",
+              "1/3",
+              "1/5"
+            ],
+            "correct_index": 1,
+            "explanation": "Tử số bằng nhau thì mẫu số càng bé, phân số càng lớn.",
+            "difficulty": 1
+          },
+          {
+            "text": "3/4 của 20 là bao nhiêu?",
+            "options": [
+              "10",
+              "12",
+              "15",
+              "16"
+            ],
+            "correct_index": 2,
+            "explanation": "20 : 4 = 5, rồi 5 × 3 = 15.",
+            "difficulty": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tiếng Việt",
+    "icon": "📖",
+    "color": "#ff7a45",
+    "topics": [
+      {
+        "name": "Từ loại",
+        "questions": [
+          {
+            "text": "Từ “chạy” là loại từ nào?",
+            "options": [
+              "Danh từ",
+              "Động từ",
+              "Tính từ",
+              "Quan hệ từ"
+            ],
+            "correct_index": 1,
+            "explanation": "“Chạy” chỉ hoạt động nên là động từ.",
+            "difficulty": 1
+          },
+          {
+            "text": "Từ “xinh đẹp” là loại từ nào?",
+            "options": [
+              "Danh từ",
+              "Động từ",
+              "Tính từ",
+              "Số từ"
+            ],
+            "correct_index": 2,
+            "explanation": "“Xinh đẹp” chỉ đặc điểm nên là tính từ.",
+            "difficulty": 1
+          },
+          {
+            "text": "Từ trái nghĩa với “cao” là gì?",
+            "options": [
+              "Thấp",
+              "To",
+              "Dài",
+              "Nhỏ"
+            ],
+            "correct_index": 0,
+            "explanation": "Cao và thấp nói về chiều cao, nghĩa ngược nhau.",
+            "difficulty": 1
+          },
+          {
+            "text": "Từ đồng nghĩa với “chăm chỉ” là gì?",
+            "options": [
+              "Lười biếng",
+              "Siêng năng",
+              "Vui vẻ",
+              "Nhanh nhẹn"
+            ],
+            "correct_index": 1,
+            "explanation": "Chăm chỉ và siêng năng có nghĩa giống nhau.",
+            "difficulty": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Khoa học",
+    "icon": "🔬",
+    "color": "#2eb872",
+    "topics": [
+      {
+        "name": "Nước và không khí",
+        "questions": [
+          {
+            "text": "Nước sôi ở bao nhiêu độ C?",
+            "options": [
+              "50",
+              "80",
+              "100",
+              "120"
+            ],
+            "correct_index": 2,
+            "explanation": "Ở điều kiện bình thường, nước sôi ở 100 độ C.",
+            "difficulty": 1
+          },
+          {
+            "text": "Nước đá là nước ở thể rắn.",
+            "options": [
+              "Đúng",
+              "Sai"
+            ],
+            "correct_index": 0,
+            "explanation": "Nước đông lại ở 0 độ C thành nước đá.",
+            "difficulty": 1
+          },
+          {
+            "text": "Con người cần khí nào để thở?",
+            "options": [
+              "Ôxi",
+              "Nitơ",
+              "Các-bô-níc",
+              "Hy-đrô"
+            ],
+            "correct_index": 0,
+            "explanation": "Ôxi giúp cơ thể sống và hoạt động.",
+            "difficulty": 1
+          },
+          {
+            "text": "Không khí có màu.",
+            "options": [
+              "Đúng",
+              "Sai"
+            ],
+            "correct_index": 1,
+            "explanation": "Không khí trong suốt, không màu, không mùi.",
+            "difficulty": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lịch sử – Địa lý",
+    "icon": "🗺️",
+    "color": "#9b5de5",
+    "topics": [
+      {
+        "name": "Việt Nam",
+        "questions": [
+          {
+            "text": "Thủ đô của Việt Nam là gì?",
+            "options": [
+              "Hà Nội",
+              "Huế",
+              "Đà Nẵng",
+              "TP. Hồ Chí Minh"
+            ],
+            "correct_index": 0,
+            "explanation": "Hà Nội là thủ đô của nước ta.",
+            "difficulty": 1
+          },
+          {
+            "text": "Sông Cửu Long chảy qua vùng Nam Bộ.",
+            "options": [
+              "Đúng",
+              "Sai"
+            ],
+            "correct_index": 0,
+            "explanation": "Đồng bằng sông Cửu Long ở Nam Bộ.",
+            "difficulty": 1
+          },
+          {
+            "text": "Dãy núi cao nhất Việt Nam là gì?",
+            "options": [
+              "Trường Sơn",
+              "Hoàng Liên Sơn",
+              "Bạch Mã",
+              "Tam Đảo"
+            ],
+            "correct_index": 1,
+            "explanation": "Đỉnh Phan-xi-păng thuộc dãy Hoàng Liên Sơn.",
+            "difficulty": 1
+          },
+          {
+            "text": "Các vua Hùng dựng nên nước nào?",
+            "options": [
+              "Âu Lạc",
+              "Văn Lang",
+              "Đại Việt",
+              "Đại Cồ Việt"
+            ],
+            "correct_index": 1,
+            "explanation": "Nhà nước đầu tiên của người Việt là Văn Lang.",
+            "difficulty": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tiếng Anh",
+    "icon": "🔤",
+    "color": "#ff4f9a",
+    "topics": [
+      {
+        "name": "Animals & Colors",
+        "questions": [
+          {
+            "text": "“Dog” nghĩa là gì?",
+            "options": [
+              "Con mèo",
+              "Con chó",
+              "Con gà",
+              "Con cá"
+            ],
+            "correct_index": 1,
+            "explanation": "Dog = con chó.",
+            "difficulty": 1
+          },
+          {
+            "text": "“Red” là màu gì?",
+            "options": [
+              "Xanh",
+              "Đỏ",
+              "Vàng",
+              "Tím"
+            ],
+            "correct_index": 1,
+            "explanation": "Red = màu đỏ.",
+            "difficulty": 1
+          },
+          {
+            "text": "“Con cá” trong tiếng Anh là gì?",
+            "options": [
+              "Fish",
+              "Bird",
+              "Cat",
+              "Cow"
+            ],
+            "correct_index": 0,
+            "explanation": "Fish = con cá.",
+            "difficulty": 1
+          },
+          {
+            "text": "“Three” là số mấy?",
+            "options": [
+              "2",
+              "3",
+              "4",
+              "5"
+            ],
+            "correct_index": 1,
+            "explanation": "Three = 3.",
+            "difficulty": 1
+          }
+        ]
+      }
+    ]
+  }
+]

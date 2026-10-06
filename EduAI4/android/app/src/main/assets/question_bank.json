@@ -1,0 +1,3881 @@
+[
+ {
+  "name": "Toán",
+  "icon": "📐",
+  "color": "#2f7bff",
+  "topics": [
+   {
+    "name": "Phép cộng",
+    "questions": [
+     {
+      "text": "7.801 + 3.077 = ?",
+      "options": [
+       "11.878",
+       "10.878",
+       "10.888",
+       "10.778"
+      ],
+      "correct_index": 1,
+      "explanation": "7.801 + 3.077 = 10.878. Cộng từ hàng đơn vị, nhớ sang hàng tiếp theo.",
+      "difficulty": 3
+     },
+     {
+      "text": "5.171 + 9.010 = ?",
+      "options": [
+       "14.081",
+       "14.191",
+       "14.181",
+       "15.181"
+      ],
+      "correct_index": 2,
+      "explanation": "5.171 + 9.010 = 14.181. Cộng từ hàng đơn vị, nhớ sang hàng tiếp theo.",
+      "difficulty": 3
+     },
+     {
+      "text": "6.925 + 7.733 = ?",
+      "options": [
+       "14.658",
+       "14.558",
+       "15.658",
+       "14.668"
+      ],
+      "correct_index": 0,
+      "explanation": "6.925 + 7.733 = 14.658. Cộng từ hàng đơn vị, nhớ sang hàng tiếp theo.",
+      "difficulty": 3
+     },
+     {
+      "text": "6.889 + 5.284 = ?",
+      "options": [
+       "12.173",
+       "12.183",
+       "13.173",
+       "12.073"
+      ],
+      "correct_index": 0,
+      "explanation": "6.889 + 5.284 = 12.173. Cộng từ hàng đơn vị, nhớ sang hàng tiếp theo.",
+      "difficulty": 3
+     },
+     {
+      "text": "9.441 + 6.998 = ?",
+      "options": [
+       "16.339",
+       "17.439",
+       "16.439",
+       "16.449"
+      ],
+      "correct_index": 2,
+      "explanation": "9.441 + 6.998 = 16.439. Cộng từ hàng đơn vị, nhớ sang hàng tiếp theo.",
+      "difficulty": 3
+     },
+     {
+      "text": "8.182 + 9.856 = ?",
+      "options": [
+       "17.938",
+       "18.038",
+       "19.038",
+       "18.048"
+      ],
+      "correct_index": 1,
+      "explanation": "8.182 + 9.856 = 18.038. Cộng từ hàng đơn vị, nhớ sang hàng tiếp theo.",
+      "difficulty": 3
+     },
+     {
+      "text": "9.619 + 1.172 = ?",
+      "options": [
+       "11.791",
+       "10.691",
+       "10.791",
+       "10.801"
+      ],
+      "correct_index": 2,
+      "explanation": "9.619 + 1.172 = 10.791. Cộng từ hàng đơn vị, nhớ sang hàng tiếp theo.",
+      "difficulty": 3
+     },
+     {
+      "text": "4.756 + 4.020 = ?",
+      "options": [
+       "9.776",
+       "8.676",
+       "8.786",
+       "8.776"
+      ],
+      "correct_index": 3,
+      "explanation": "4.756 + 4.020 = 8.776. Cộng từ hàng đơn vị, nhớ sang hàng tiếp theo.",
+      "difficulty": 3
+     },
+     {
+      "text": "4.661 + 2.324 = ?",
+      "options": [
+       "6.985",
+       "6.885",
+       "7.985",
+       "6.995"
+      ],
+      "correct_index": 0,
+      "explanation": "4.661 + 2.324 = 6.985. Cộng từ hàng đơn vị, nhớ sang hàng tiếp theo.",
+      "difficulty": 3
+     },
+     {
+      "text": "847 + 9.584 = ?",
+      "options": [
+       "11.431",
+       "10.431",
+       "10.331",
+       "10.441"
+      ],
+      "correct_index": 1,
+      "explanation": "847 + 9.584 = 10.431. Cộng từ hàng đơn vị, nhớ sang hàng tiếp theo.",
+      "difficulty": 3
+     },
+     {
+      "text": "8.359 + 2.946 = ?",
+      "options": [
+       "11.315",
+       "12.305",
+       "11.205",
+       "11.305"
+      ],
+      "correct_index": 3,
+      "explanation": "8.359 + 2.946 = 11.305. Cộng từ hàng đơn vị, nhớ sang hàng tiếp theo.",
+      "difficulty": 3
+     },
+     {
+      "text": "9.275 + 3.046 = ?",
+      "options": [
+       "13.321",
+       "12.321",
+       "12.221",
+       "12.331"
+      ],
+      "correct_index": 1,
+      "explanation": "9.275 + 3.046 = 12.321. Cộng từ hàng đơn vị, nhớ sang hàng tiếp theo.",
+      "difficulty": 3
+     },
+     {
+      "text": "3.214 + 7.652 = ?",
+      "options": [
+       "10.866",
+       "10.876",
+       "10.766",
+       "11.866"
+      ],
+      "correct_index": 0,
+      "explanation": "3.214 + 7.652 = 10.866. Cộng từ hàng đơn vị, nhớ sang hàng tiếp theo.",
+      "difficulty": 3
+     },
+     {
+      "text": "6.955 + 9.838 = ?",
+      "options": [
+       "16.803",
+       "16.793",
+       "16.693",
+       "17.793"
+      ],
+      "correct_index": 1,
+      "explanation": "6.955 + 9.838 = 16.793. Cộng từ hàng đơn vị, nhớ sang hàng tiếp theo.",
+      "difficulty": 3
+     },
+     {
+      "text": "2.053 + 5.594 = ?",
+      "options": [
+       "7.647",
+       "7.657",
+       "7.547",
+       "8.647"
+      ],
+      "correct_index": 0,
+      "explanation": "2.053 + 5.594 = 7.647. Cộng từ hàng đơn vị, nhớ sang hàng tiếp theo.",
+      "difficulty": 3
+     },
+     {
+      "text": "9.065 + 918 = ?",
+      "options": [
+       "10.983",
+       "9.983",
+       "9.883",
+       "9.993"
+      ],
+      "correct_index": 1,
+      "explanation": "9.065 + 918 = 9.983. Cộng từ hàng đơn vị, nhớ sang hàng tiếp theo.",
+      "difficulty": 3
+     },
+     {
+      "text": "7.161 + 1.206 = ?",
+      "options": [
+       "8.367",
+       "9.367",
+       "8.377",
+       "8.267"
+      ],
+      "correct_index": 0,
+      "explanation": "7.161 + 1.206 = 8.367. Cộng từ hàng đơn vị, nhớ sang hàng tiếp theo.",
+      "difficulty": 3
+     },
+     {
+      "text": "8.159 + 5.446 = ?",
+      "options": [
+       "14.605",
+       "13.615",
+       "13.505",
+       "13.605"
+      ],
+      "correct_index": 3,
+      "explanation": "8.159 + 5.446 = 13.605. Cộng từ hàng đơn vị, nhớ sang hàng tiếp theo.",
+      "difficulty": 3
+     },
+     {
+      "text": "529 + 4.579 = ?",
+      "options": [
+       "6.108",
+       "5.118",
+       "5.008",
+       "5.108"
+      ],
+      "correct_index": 3,
+      "explanation": "529 + 4.579 = 5.108. Cộng từ hàng đơn vị, nhớ sang hàng tiếp theo.",
+      "difficulty": 2
+     },
+     {
+      "text": "7.211 + 9.256 = ?",
+      "options": [
+       "16.477",
+       "16.467",
+       "16.367",
+       "17.467"
+      ],
+      "correct_index": 1,
+      "explanation": "7.211 + 9.256 = 16.467. Cộng từ hàng đơn vị, nhớ sang hàng tiếp theo.",
+      "difficulty": 3
+     }
+    ]
+   },
+   {
+    "name": "Phép trừ",
+    "questions": [
+     {
+      "text": "4.551 − 2.490 = ?",
+      "options": [
+       "2.071",
+       "2.061",
+       "3.061",
+       "1.961"
+      ],
+      "correct_index": 1,
+      "explanation": "4.551 − 2.490 = 2.061. Thử lại: 2.061 + 2.490 = 4.551.",
+      "difficulty": 2
+     },
+     {
+      "text": "4.400 − 3.033 = ?",
+      "options": [
+       "2.367",
+       "1.267",
+       "1.377",
+       "1.367"
+      ],
+      "correct_index": 3,
+      "explanation": "4.400 − 3.033 = 1.367. Thử lại: 1.367 + 3.033 = 4.400.",
+      "difficulty": 2
+     },
+     {
+      "text": "3.932 − 1.176 = ?",
+      "options": [
+       "2.756",
+       "2.656",
+       "3.756",
+       "2.766"
+      ],
+      "correct_index": 0,
+      "explanation": "3.932 − 1.176 = 2.756. Thử lại: 2.756 + 1.176 = 3.932.",
+      "difficulty": 2
+     },
+     {
+      "text": "5.360 − 2.126 = ?",
+      "options": [
+       "3.244",
+       "4.234",
+       "3.134",
+       "3.234"
+      ],
+      "correct_index": 3,
+      "explanation": "5.360 − 2.126 = 3.234. Thử lại: 3.234 + 2.126 = 5.360.",
+      "difficulty": 2
+     },
+     {
+      "text": "2.160 − 967 = ?",
+      "options": [
+       "1.203",
+       "1.093",
+       "1.193",
+       "2.193"
+      ],
+      "correct_index": 2,
+      "explanation": "2.160 − 967 = 1.193. Thử lại: 1.193 + 967 = 2.160.",
+      "difficulty": 2
+     },
+     {
+      "text": "8.237 − 6.867 = ?",
+      "options": [
+       "1.380",
+       "1.370",
+       "1.270",
+       "2.370"
+      ],
+      "correct_index": 1,
+      "explanation": "8.237 − 6.867 = 1.370. Thử lại: 1.370 + 6.867 = 8.237.",
+      "difficulty": 3
+     },
+     {
+      "text": "4.148 − 3.193 = ?",
+      "options": [
+       "955",
+       "1.955",
+       "965",
+       "855"
+      ],
+      "correct_index": 0,
+      "explanation": "4.148 − 3.193 = 955. Thử lại: 955 + 3.193 = 4.148.",
+      "difficulty": 2
+     },
+     {
+      "text": "5.965 − 4.581 = ?",
+      "options": [
+       "1.394",
+       "2.384",
+       "1.384",
+       "1.284"
+      ],
+      "correct_index": 2,
+      "explanation": "5.965 − 4.581 = 1.384. Thử lại: 1.384 + 4.581 = 5.965.",
+      "difficulty": 2
+     },
+     {
+      "text": "7.521 − 6.167 = ?",
+      "options": [
+       "1.254",
+       "1.364",
+       "1.354",
+       "2.354"
+      ],
+      "correct_index": 2,
+      "explanation": "7.521 − 6.167 = 1.354. Thử lại: 1.354 + 6.167 = 7.521.",
+      "difficulty": 3
+     },
+     {
+      "text": "3.052 − 1.234 = ?",
+      "options": [
+       "2.818",
+       "1.828",
+       "1.818",
+       "1.718"
+      ],
+      "correct_index": 2,
+      "explanation": "3.052 − 1.234 = 1.818. Thử lại: 1.818 + 1.234 = 3.052.",
+      "difficulty": 2
+     },
+     {
+      "text": "8.619 − 6.018 = ?",
+      "options": [
+       "2.501",
+       "2.601",
+       "2.611",
+       "3.601"
+      ],
+      "correct_index": 1,
+      "explanation": "8.619 − 6.018 = 2.601. Thử lại: 2.601 + 6.018 = 8.619.",
+      "difficulty": 3
+     },
+     {
+      "text": "2.811 − 571 = ?",
+      "options": [
+       "3.240",
+       "2.240",
+       "2.140",
+       "2.250"
+      ],
+      "correct_index": 1,
+      "explanation": "2.811 − 571 = 2.240. Thử lại: 2.240 + 571 = 2.811.",
+      "difficulty": 2
+     },
+     {
+      "text": "5.634 − 5.472 = ?",
+      "options": [
+       "162",
+       "62",
+       "1.162",
+       "172"
+      ],
+      "correct_index": 0,
+      "explanation": "5.634 − 5.472 = 162. Thử lại: 162 + 5.472 = 5.634.",
+      "difficulty": 2
+     },
+     {
+      "text": "4.606 − 2.796 = ?",
+      "options": [
+       "1.710",
+       "2.810",
+       "1.820",
+       "1.810"
+      ],
+      "correct_index": 3,
+      "explanation": "4.606 − 2.796 = 1.810. Thử lại: 1.810 + 2.796 = 4.606.",
+      "difficulty": 2
+     },
+     {
+      "text": "5.677 − 2.681 = ?",
+      "options": [
+       "3.996",
+       "2.996",
+       "3.006",
+       "2.896"
+      ],
+      "correct_index": 1,
+      "explanation": "5.677 − 2.681 = 2.996. Thử lại: 2.996 + 2.681 = 5.677.",
+      "difficulty": 2
+     },
+     {
+      "text": "7.257 − 1.738 = ?",
+      "options": [
+       "6.519",
+       "5.419",
+       "5.529",
+       "5.519"
+      ],
+      "correct_index": 3,
+      "explanation": "7.257 − 1.738 = 5.519. Thử lại: 5.519 + 1.738 = 7.257.",
+      "difficulty": 3
+     },
+     {
+      "text": "5.866 − 156 = ?",
+      "options": [
+       "5.710",
+       "5.610",
+       "5.720",
+       "6.710"
+      ],
+      "correct_index": 0,
+      "explanation": "5.866 − 156 = 5.710. Thử lại: 5.710 + 156 = 5.866.",
+      "difficulty": 2
+     },
+     {
+      "text": "7.919 − 6.057 = ?",
+      "options": [
+       "2.862",
+       "1.872",
+       "1.862",
+       "1.762"
+      ],
+      "correct_index": 2,
+      "explanation": "7.919 − 6.057 = 1.862. Thử lại: 1.862 + 6.057 = 7.919.",
+      "difficulty": 3
+     },
+     {
+      "text": "8.431 − 7.888 = ?",
+      "options": [
+       "553",
+       "443",
+       "543",
+       "1.543"
+      ],
+      "correct_index": 2,
+      "explanation": "8.431 − 7.888 = 543. Thử lại: 543 + 7.888 = 8.431.",
+      "difficulty": 3
+     },
+     {
+      "text": "3.593 − 160 = ?",
+      "options": [
+       "3.443",
+       "4.433",
+       "3.433",
+       "3.333"
+      ],
+      "correct_index": 2,
+      "explanation": "3.593 − 160 = 3.433. Thử lại: 3.433 + 160 = 3.593.",
+      "difficulty": 2
+     }
+    ]
+   },
+   {
+    "name": "Phép nhân",
+    "questions": [
+     {
+      "text": "865 × 3 = ?",
+      "options": [
+       "2.605",
+       "2.595",
+       "3.460",
+       "1.730"
+      ],
+      "correct_index": 1,
+      "explanation": "865 × 3 = 2.595.",
+      "difficulty": 2
+     },
+     {
+      "text": "839 × 20 = ?",
+      "options": [
+       "17.619",
+       "16.780",
+       "16.790",
+       "15.941"
+      ],
+      "correct_index": 1,
+      "explanation": "839 × 20 = 16.780.",
+      "difficulty": 3
+     },
+     {
+      "text": "483 × 9 = ?",
+      "options": [
+       "4.830",
+       "3.864",
+       "4.347",
+       "4.357"
+      ],
+      "correct_index": 2,
+      "explanation": "483 × 9 = 4.347.",
+      "difficulty": 2
+     },
+     {
+      "text": "246 × 2 = ?",
+      "options": [
+       "246",
+       "492",
+       "738",
+       "502"
+      ],
+      "correct_index": 1,
+      "explanation": "246 × 2 = 492.",
+      "difficulty": 1
+     },
+     {
+      "text": "800 × 15 = ?",
+      "options": [
+       "12.800",
+       "11.200",
+       "12.000",
+       "12.010"
+      ],
+      "correct_index": 2,
+      "explanation": "800 × 15 = 12.000.",
+      "difficulty": 3
+     },
+     {
+      "text": "294 × 15 = ?",
+      "options": [
+       "4.420",
+       "4.704",
+       "4.116",
+       "4.410"
+      ],
+      "correct_index": 3,
+      "explanation": "294 × 15 = 4.410.",
+      "difficulty": 2
+     },
+     {
+      "text": "568 × 10 = ?",
+      "options": [
+       "5.690",
+       "5.112",
+       "5.680",
+       "6.248"
+      ],
+      "correct_index": 2,
+      "explanation": "568 × 10 = 5.680.",
+      "difficulty": 3
+     },
+     {
+      "text": "838 × 16 = ?",
+      "options": [
+       "13.408",
+       "12.570",
+       "14.246",
+       "13.418"
+      ],
+      "correct_index": 0,
+      "explanation": "838 × 16 = 13.408.",
+      "difficulty": 3
+     },
+     {
+      "text": "874 × 18 = ?",
+      "options": [
+       "14.858",
+       "15.742",
+       "16.606",
+       "15.732"
+      ],
+      "correct_index": 3,
+      "explanation": "874 × 18 = 15.732.",
+      "difficulty": 3
+     },
+     {
+      "text": "718 × 20 = ?",
+      "options": [
+       "14.370",
+       "13.642",
+       "15.078",
+       "14.360"
+      ],
+      "correct_index": 3,
+      "explanation": "718 × 20 = 14.360.",
+      "difficulty": 3
+     },
+     {
+      "text": "357 × 2 = ?",
+      "options": [
+       "714",
+       "357",
+       "724",
+       "1.071"
+      ],
+      "correct_index": 0,
+      "explanation": "357 × 2 = 714.",
+      "difficulty": 1
+     },
+     {
+      "text": "318 × 10 = ?",
+      "options": [
+       "3.190",
+       "3.180",
+       "2.862",
+       "3.498"
+      ],
+      "correct_index": 1,
+      "explanation": "318 × 10 = 3.180.",
+      "difficulty": 2
+     },
+     {
+      "text": "172 × 4 = ?",
+      "options": [
+       "516",
+       "860",
+       "688",
+       "698"
+      ],
+      "correct_index": 2,
+      "explanation": "172 × 4 = 688.",
+      "difficulty": 1
+     },
+     {
+      "text": "258 × 14 = ?",
+      "options": [
+       "3.622",
+       "3.354",
+       "3.612",
+       "3.870"
+      ],
+      "correct_index": 2,
+      "explanation": "258 × 14 = 3.612.",
+      "difficulty": 2
+     },
+     {
+      "text": "618 × 6 = ?",
+      "options": [
+       "3.708",
+       "3.718",
+       "3.090",
+       "4.326"
+      ],
+      "correct_index": 0,
+      "explanation": "618 × 6 = 3.708.",
+      "difficulty": 2
+     },
+     {
+      "text": "208 × 17 = ?",
+      "options": [
+       "3.536",
+       "3.328",
+       "3.744",
+       "3.546"
+      ],
+      "correct_index": 0,
+      "explanation": "208 × 17 = 3.536.",
+      "difficulty": 2
+     },
+     {
+      "text": "428 × 19 = ?",
+      "options": [
+       "8.132",
+       "8.142",
+       "7.704",
+       "8.560"
+      ],
+      "correct_index": 0,
+      "explanation": "428 × 19 = 8.132.",
+      "difficulty": 3
+     },
+     {
+      "text": "962 × 18 = ?",
+      "options": [
+       "17.326",
+       "16.354",
+       "17.316",
+       "18.278"
+      ],
+      "correct_index": 2,
+      "explanation": "962 × 18 = 17.316.",
+      "difficulty": 3
+     },
+     {
+      "text": "319 × 5 = ?",
+      "options": [
+       "1.595",
+       "1.605",
+       "1.276",
+       "1.914"
+      ],
+      "correct_index": 0,
+      "explanation": "319 × 5 = 1.595.",
+      "difficulty": 2
+     },
+     {
+      "text": "469 × 8 = ?",
+      "options": [
+       "3.752",
+       "3.762",
+       "3.283",
+       "4.221"
+      ],
+      "correct_index": 0,
+      "explanation": "469 × 8 = 3.752.",
+      "difficulty": 2
+     }
+    ]
+   },
+   {
+    "name": "Phép chia",
+    "questions": [
+     {
+      "text": "40 : 2 = ?",
+      "options": [
+       "10",
+       "30",
+       "21",
+       "20"
+      ],
+      "correct_index": 3,
+      "explanation": "Vì 2 × 20 = 40 nên 40 : 2 = 20.",
+      "difficulty": 1
+     },
+     {
+      "text": "264 : 6 = ?",
+      "options": [
+       "44",
+       "45",
+       "34",
+       "54"
+      ],
+      "correct_index": 0,
+      "explanation": "Vì 6 × 44 = 264 nên 264 : 6 = 44.",
+      "difficulty": 2
+     },
+     {
+      "text": "322 : 7 = ?",
+      "options": [
+       "36",
+       "46",
+       "47",
+       "56"
+      ],
+      "correct_index": 1,
+      "explanation": "Vì 7 × 46 = 322 nên 322 : 7 = 46.",
+      "difficulty": 2
+     },
+     {
+      "text": "954 : 9 = ?",
+      "options": [
+       "116",
+       "96",
+       "106",
+       "107"
+      ],
+      "correct_index": 2,
+      "explanation": "Vì 9 × 106 = 954 nên 954 : 9 = 106.",
+      "difficulty": 3
+     },
+     {
+      "text": "360 : 5 = ?",
+      "options": [
+       "62",
+       "82",
+       "73",
+       "72"
+      ],
+      "correct_index": 3,
+      "explanation": "Vì 5 × 72 = 360 nên 360 : 5 = 72.",
+      "difficulty": 2
+     },
+     {
+      "text": "180 : 2 = ?",
+      "options": [
+       "90",
+       "91",
+       "80",
+       "100"
+      ],
+      "correct_index": 0,
+      "explanation": "Vì 2 × 90 = 180 nên 180 : 2 = 90.",
+      "difficulty": 2
+     },
+     {
+      "text": "75 : 3 = ?",
+      "options": [
+       "26",
+       "35",
+       "15",
+       "25"
+      ],
+      "correct_index": 3,
+      "explanation": "Vì 3 × 25 = 75 nên 75 : 3 = 25.",
+      "difficulty": 1
+     },
+     {
+      "text": "266 : 2 = ?",
+      "options": [
+       "123",
+       "143",
+       "133",
+       "134"
+      ],
+      "correct_index": 2,
+      "explanation": "Vì 2 × 133 = 266 nên 266 : 2 = 133.",
+      "difficulty": 3
+     },
+     {
+      "text": "248 : 4 = ?",
+      "options": [
+       "72",
+       "62",
+       "63",
+       "52"
+      ],
+      "correct_index": 1,
+      "explanation": "Vì 4 × 62 = 248 nên 248 : 4 = 62.",
+      "difficulty": 2
+     },
+     {
+      "text": "225 : 9 = ?",
+      "options": [
+       "15",
+       "25",
+       "26",
+       "35"
+      ],
+      "correct_index": 1,
+      "explanation": "Vì 9 × 25 = 225 nên 225 : 9 = 25.",
+      "difficulty": 1
+     },
+     {
+      "text": "632 : 8 = ?",
+      "options": [
+       "69",
+       "80",
+       "89",
+       "79"
+      ],
+      "correct_index": 3,
+      "explanation": "Vì 8 × 79 = 632 nên 632 : 8 = 79.",
+      "difficulty": 2
+     },
+     {
+      "text": "244 : 2 = ?",
+      "options": [
+       "132",
+       "112",
+       "122",
+       "123"
+      ],
+      "correct_index": 2,
+      "explanation": "Vì 2 × 122 = 244 nên 244 : 2 = 122.",
+      "difficulty": 3
+     },
+     {
+      "text": "909 : 9 = ?",
+      "options": [
+       "102",
+       "91",
+       "111",
+       "101"
+      ],
+      "correct_index": 3,
+      "explanation": "Vì 9 × 101 = 909 nên 909 : 9 = 101.",
+      "difficulty": 3
+     },
+     {
+      "text": "688 : 8 = ?",
+      "options": [
+       "86",
+       "96",
+       "87",
+       "76"
+      ],
+      "correct_index": 0,
+      "explanation": "Vì 8 × 86 = 688 nên 688 : 8 = 86.",
+      "difficulty": 2
+     },
+     {
+      "text": "306 : 9 = ?",
+      "options": [
+       "35",
+       "24",
+       "44",
+       "34"
+      ],
+      "correct_index": 3,
+      "explanation": "Vì 9 × 34 = 306 nên 306 : 9 = 34.",
+      "difficulty": 1
+     },
+     {
+      "text": "585 : 9 = ?",
+      "options": [
+       "75",
+       "55",
+       "66",
+       "65"
+      ],
+      "correct_index": 3,
+      "explanation": "Vì 9 × 65 = 585 nên 585 : 9 = 65.",
+      "difficulty": 2
+     },
+     {
+      "text": "87 : 3 = ?",
+      "options": [
+       "30",
+       "39",
+       "19",
+       "29"
+      ],
+      "correct_index": 3,
+      "explanation": "Vì 3 × 29 = 87 nên 87 : 3 = 29.",
+      "difficulty": 1
+     },
+     {
+      "text": "315 : 9 = ?",
+      "options": [
+       "45",
+       "25",
+       "35",
+       "36"
+      ],
+      "correct_index": 2,
+      "explanation": "Vì 9 × 35 = 315 nên 315 : 9 = 35.",
+      "difficulty": 1
+     },
+     {
+      "text": "351 : 9 = ?",
+      "options": [
+       "49",
+       "40",
+       "39",
+       "29"
+      ],
+      "correct_index": 2,
+      "explanation": "Vì 9 × 39 = 351 nên 351 : 9 = 39.",
+      "difficulty": 1
+     },
+     {
+      "text": "88 : 8 = ?",
+      "options": [
+       "11",
+       "12",
+       "21",
+       "1"
+      ],
+      "correct_index": 0,
+      "explanation": "Vì 8 × 11 = 88 nên 88 : 8 = 11.",
+      "difficulty": 1
+     }
+    ]
+   },
+   {
+    "name": "So sánh số",
+    "questions": [
+     {
+      "text": "Số nào lớn nhất trong các số sau?",
+      "options": [
+       "93.127",
+       "35.289",
+       "49.713",
+       "29.605"
+      ],
+      "correct_index": 0,
+      "explanation": "So sánh từ hàng cao nhất (bên trái): số có nhiều chữ số hơn thì lớn hơn, bằng chữ số thì so từng hàng.",
+      "difficulty": 2
+     },
+     {
+      "text": "Số nào bé nhất trong các số sau?",
+      "options": [
+       "2.630",
+       "97.620",
+       "20.605",
+       "87.128"
+      ],
+      "correct_index": 0,
+      "explanation": "So sánh từ hàng cao nhất (bên trái): số có nhiều chữ số hơn thì lớn hơn, bằng chữ số thì so từng hàng.",
+      "difficulty": 2
+     },
+     {
+      "text": "Số nào lớn nhất trong các số sau?",
+      "options": [
+       "68.764",
+       "36.124",
+       "49.695",
+       "61.686"
+      ],
+      "correct_index": 0,
+      "explanation": "So sánh từ hàng cao nhất (bên trái): số có nhiều chữ số hơn thì lớn hơn, bằng chữ số thì so từng hàng.",
+      "difficulty": 2
+     },
+     {
+      "text": "Số nào bé nhất trong các số sau?",
+      "options": [
+       "88.379",
+       "33.085",
+       "11.310",
+       "21.733"
+      ],
+      "correct_index": 2,
+      "explanation": "So sánh từ hàng cao nhất (bên trái): số có nhiều chữ số hơn thì lớn hơn, bằng chữ số thì so từng hàng.",
+      "difficulty": 2
+     },
+     {
+      "text": "Số nào lớn nhất trong các số sau?",
+      "options": [
+       "15.508",
+       "70.226",
+       "52.963",
+       "10.977"
+      ],
+      "correct_index": 1,
+      "explanation": "So sánh từ hàng cao nhất (bên trái): số có nhiều chữ số hơn thì lớn hơn, bằng chữ số thì so từng hàng.",
+      "difficulty": 2
+     },
+     {
+      "text": "Số nào bé nhất trong các số sau?",
+      "options": [
+       "76.776",
+       "53.749",
+       "83.884",
+       "80.987"
+      ],
+      "correct_index": 1,
+      "explanation": "So sánh từ hàng cao nhất (bên trái): số có nhiều chữ số hơn thì lớn hơn, bằng chữ số thì so từng hàng.",
+      "difficulty": 2
+     },
+     {
+      "text": "Số nào lớn nhất trong các số sau?",
+      "options": [
+       "13.350",
+       "15.956",
+       "40.672",
+       "32.567"
+      ],
+      "correct_index": 2,
+      "explanation": "So sánh từ hàng cao nhất (bên trái): số có nhiều chữ số hơn thì lớn hơn, bằng chữ số thì so từng hàng.",
+      "difficulty": 2
+     },
+     {
+      "text": "Số nào bé nhất trong các số sau?",
+      "options": [
+       "72.759",
+       "94.907",
+       "96.162",
+       "73.539"
+      ],
+      "correct_index": 0,
+      "explanation": "So sánh từ hàng cao nhất (bên trái): số có nhiều chữ số hơn thì lớn hơn, bằng chữ số thì so từng hàng.",
+      "difficulty": 2
+     },
+     {
+      "text": "Số nào lớn nhất trong các số sau?",
+      "options": [
+       "81.500",
+       "48.227",
+       "19.925",
+       "58.087"
+      ],
+      "correct_index": 0,
+      "explanation": "So sánh từ hàng cao nhất (bên trái): số có nhiều chữ số hơn thì lớn hơn, bằng chữ số thì so từng hàng.",
+      "difficulty": 2
+     },
+     {
+      "text": "Số nào bé nhất trong các số sau?",
+      "options": [
+       "47.133",
+       "88.124",
+       "16.434",
+       "96.138"
+      ],
+      "correct_index": 2,
+      "explanation": "So sánh từ hàng cao nhất (bên trái): số có nhiều chữ số hơn thì lớn hơn, bằng chữ số thì so từng hàng.",
+      "difficulty": 2
+     },
+     {
+      "text": "Điền dấu thích hợp: 4.095 … 3.750",
+      "options": [
+       "<",
+       "không so sánh được",
+       ">",
+       "="
+      ],
+      "correct_index": 2,
+      "explanation": "4.095 > 3.750.",
+      "difficulty": 1
+     },
+     {
+      "text": "Điền dấu thích hợp: 4.027 … 4.673",
+      "options": [
+       "<",
+       "=",
+       "không so sánh được",
+       ">"
+      ],
+      "correct_index": 0,
+      "explanation": "4.027 < 4.673.",
+      "difficulty": 1
+     },
+     {
+      "text": "Điền dấu thích hợp: 3.439 … 2.964",
+      "options": [
+       "=",
+       "không so sánh được",
+       ">",
+       "<"
+      ],
+      "correct_index": 2,
+      "explanation": "3.439 > 2.964.",
+      "difficulty": 1
+     },
+     {
+      "text": "Điền dấu thích hợp: 4.219 … 3.783",
+      "options": [
+       "không so sánh được",
+       ">",
+       "<",
+       "="
+      ],
+      "correct_index": 1,
+      "explanation": "4.219 > 3.783.",
+      "difficulty": 1
+     },
+     {
+      "text": "Điền dấu thích hợp: 8.367 … 8.929",
+      "options": [
+       "=",
+       "<",
+       ">",
+       "không so sánh được"
+      ],
+      "correct_index": 1,
+      "explanation": "8.367 < 8.929.",
+      "difficulty": 1
+     }
+    ]
+   },
+   {
+    "name": "Phân số",
+    "questions": [
+     {
+      "text": "1/2 lớn hơn 1/3.",
+      "options": [
+       "Đúng",
+       "Sai"
+      ],
+      "correct_index": 0,
+      "explanation": "Chia chiếc bánh thành 2 phần thì mỗi phần to hơn khi chia thành 3 phần.",
+      "difficulty": 1
+     },
+     {
+      "text": "Phân số nào lớn nhất?",
+      "options": [
+       "1/5",
+       "1/3",
+       "1/2",
+       "1/4"
+      ],
+      "correct_index": 2,
+      "explanation": "Tử số bằng nhau thì mẫu số càng bé, phân số càng lớn.",
+      "difficulty": 1
+     },
+     {
+      "text": "3/4 của 20 là bao nhiêu?",
+      "options": [
+       "12",
+       "15",
+       "10",
+       "16"
+      ],
+      "correct_index": 1,
+      "explanation": "20 : 4 = 5, rồi 5 × 3 = 15.",
+      "difficulty": 2
+     },
+     {
+      "text": "Phân số 4/4 bằng 1.",
+      "options": [
+       "Đúng",
+       "Sai"
+      ],
+      "correct_index": 0,
+      "explanation": "Tử số bằng mẫu số thì phân số bằng 1.",
+      "difficulty": 1
+     },
+     {
+      "text": "Phân số nào bé hơn 1?",
+      "options": [
+       "9/5",
+       "5/5",
+       "3/5",
+       "7/5"
+      ],
+      "correct_index": 2,
+      "explanation": "Phân số bé hơn 1 có tử số bé hơn mẫu số.",
+      "difficulty": 1
+     },
+     {
+      "text": "3/9 + 2/9 = ?",
+      "options": [
+       "5/9",
+       "1/9",
+       "5/10",
+       "5/18"
+      ],
+      "correct_index": 0,
+      "explanation": "Mẫu số giống nhau: cộng các tử số, giữ nguyên mẫu số. 3 + 2 = 5.",
+      "difficulty": 2
+     },
+     {
+      "text": "6/8 + 1/8 = ?",
+      "options": [
+       "7/16",
+       "7/8",
+       "5/8",
+       "7/9"
+      ],
+      "correct_index": 1,
+      "explanation": "Mẫu số giống nhau: cộng các tử số, giữ nguyên mẫu số. 6 + 1 = 7.",
+      "difficulty": 2
+     },
+     {
+      "text": "1/6 + 1/6 = ?",
+      "options": [
+       "2/7",
+       "0/6",
+       "2/12",
+       "2/6"
+      ],
+      "correct_index": 3,
+      "explanation": "Mẫu số giống nhau: cộng các tử số, giữ nguyên mẫu số. 1 + 1 = 2.",
+      "difficulty": 2
+     },
+     {
+      "text": "8/12 + 1/12 = ?",
+      "options": [
+       "9/13",
+       "9/12",
+       "9/24",
+       "7/12"
+      ],
+      "correct_index": 1,
+      "explanation": "Mẫu số giống nhau: cộng các tử số, giữ nguyên mẫu số. 8 + 1 = 9.",
+      "difficulty": 2
+     },
+     {
+      "text": "7/11 + 3/11 = ?",
+      "options": [
+       "10/22",
+       "4/11",
+       "10/12",
+       "10/11"
+      ],
+      "correct_index": 3,
+      "explanation": "Mẫu số giống nhau: cộng các tử số, giữ nguyên mẫu số. 7 + 3 = 10.",
+      "difficulty": 2
+     },
+     {
+      "text": "6/10 + 3/10 = ?",
+      "options": [
+       "9/20",
+       "3/10",
+       "9/11",
+       "9/10"
+      ],
+      "correct_index": 3,
+      "explanation": "Mẫu số giống nhau: cộng các tử số, giữ nguyên mẫu số. 6 + 3 = 9.",
+      "difficulty": 2
+     },
+     {
+      "text": "1/6 + 2/6 = ?",
+      "options": [
+       "1/6",
+       "3/12",
+       "3/6",
+       "3/7"
+      ],
+      "correct_index": 2,
+      "explanation": "Mẫu số giống nhau: cộng các tử số, giữ nguyên mẫu số. 1 + 2 = 3.",
+      "difficulty": 2
+     },
+     {
+      "text": "8/10 − 1/10 = ?",
+      "options": [
+       "9/10",
+       "7/9",
+       "7/20",
+       "7/10"
+      ],
+      "correct_index": 3,
+      "explanation": "Trừ các tử số, giữ nguyên mẫu số. 8 − 1 = 7.",
+      "difficulty": 2
+     },
+     {
+      "text": "8/9 − 6/9 = ?",
+      "options": [
+       "2/9",
+       "2/18",
+       "2/8",
+       "14/9"
+      ],
+      "correct_index": 0,
+      "explanation": "Trừ các tử số, giữ nguyên mẫu số. 8 − 6 = 2.",
+      "difficulty": 2
+     },
+     {
+      "text": "3/7 − 1/7 = ?",
+      "options": [
+       "2/14",
+       "2/6",
+       "4/7",
+       "2/7"
+      ],
+      "correct_index": 3,
+      "explanation": "Trừ các tử số, giữ nguyên mẫu số. 3 − 1 = 2.",
+      "difficulty": 2
+     },
+     {
+      "text": "9/10 − 2/10 = ?",
+      "options": [
+       "11/10",
+       "7/9",
+       "7/10",
+       "7/20"
+      ],
+      "correct_index": 2,
+      "explanation": "Trừ các tử số, giữ nguyên mẫu số. 9 − 2 = 7.",
+      "difficulty": 2
+     },
+     {
+      "text": "6/13 − 5/13 = ?",
+      "options": [
+       "11/13",
+       "1/12",
+       "1/26",
+       "1/13"
+      ],
+      "correct_index": 3,
+      "explanation": "Trừ các tử số, giữ nguyên mẫu số. 6 − 5 = 1.",
+      "difficulty": 2
+     },
+     {
+      "text": "4/9 − 2/9 = ?",
+      "options": [
+       "6/9",
+       "2/18",
+       "2/8",
+       "2/9"
+      ],
+      "correct_index": 3,
+      "explanation": "Trừ các tử số, giữ nguyên mẫu số. 4 − 2 = 2.",
+      "difficulty": 2
+     },
+     {
+      "text": "Rút gọn phân số 10/25",
+      "options": [
+       "2/6",
+       "10/24",
+       "2/5",
+       "3/5"
+      ],
+      "correct_index": 2,
+      "explanation": "Chia cả tử số và mẫu số cho 5: 10/25 = 2/5.",
+      "difficulty": 3
+     },
+     {
+      "text": "Rút gọn phân số 9/15",
+      "options": [
+       "9/14",
+       "3/6",
+       "4/5",
+       "3/5"
+      ],
+      "correct_index": 3,
+      "explanation": "Chia cả tử số và mẫu số cho 3: 9/15 = 3/5.",
+      "difficulty": 3
+     },
+     {
+      "text": "Rút gọn phân số 5/15",
+      "options": [
+       "5/14",
+       "1/4",
+       "2/3",
+       "1/3"
+      ],
+      "correct_index": 3,
+      "explanation": "Chia cả tử số và mẫu số cho 5: 5/15 = 1/3.",
+      "difficulty": 3
+     },
+     {
+      "text": "Rút gọn phân số 6/15",
+      "options": [
+       "3/5",
+       "6/14",
+       "2/6",
+       "2/5"
+      ],
+      "correct_index": 3,
+      "explanation": "Chia cả tử số và mẫu số cho 3: 6/15 = 2/5.",
+      "difficulty": 3
+     },
+     {
+      "text": "Phân số nào bằng 3/4?",
+      "options": [
+       "6/7",
+       "9/13",
+       "9/12",
+       "9/7"
+      ],
+      "correct_index": 2,
+      "explanation": "Nhân cả tử số và mẫu số với 3: 3/4 = 9/12.",
+      "difficulty": 2
+     },
+     {
+      "text": "Phân số nào bằng 3/4?",
+      "options": [
+       "12/17",
+       "12/8",
+       "7/8",
+       "12/16"
+      ],
+      "correct_index": 3,
+      "explanation": "Nhân cả tử số và mẫu số với 4: 3/4 = 12/16.",
+      "difficulty": 2
+     },
+     {
+      "text": "Phân số nào bằng 2/3?",
+      "options": [
+       "8/7",
+       "8/13",
+       "6/7",
+       "8/12"
+      ],
+      "correct_index": 3,
+      "explanation": "Nhân cả tử số và mẫu số với 4: 2/3 = 8/12.",
+      "difficulty": 2
+     }
+    ]
+   },
+   {
+    "name": "Hình học",
+    "questions": [
+     {
+      "text": "Góc vuông có số đo bằng bao nhiêu độ?",
+      "options": [
+       "90 độ",
+       "60 độ",
+       "180 độ",
+       "45 độ"
+      ],
+      "correct_index": 0,
+      "explanation": "Góc vuông bằng 90 độ, như góc của quyển vở.",
+      "difficulty": 1
+     },
+     {
+      "text": "Hình vuông có 4 cạnh bằng nhau.",
+      "options": [
+       "Đúng",
+       "Sai"
+      ],
+      "correct_index": 0,
+      "explanation": "Hình vuông có 4 cạnh bằng nhau và 4 góc vuông.",
+      "difficulty": 1
+     },
+     {
+      "text": "Hình chữ nhật có 4 cạnh bằng nhau.",
+      "options": [
+       "Đúng",
+       "Sai"
+      ],
+      "correct_index": 1,
+      "explanation": "Hình chữ nhật chỉ có các cạnh đối bằng nhau.",
+      "difficulty": 1
+     },
+     {
+      "text": "Hình bình hành có các cặp cạnh đối như thế nào?",
+      "options": [
+       "song song và bằng nhau",
+       "vuông góc với nhau",
+       "không bằng nhau",
+       "cắt nhau"
+      ],
+      "correct_index": 0,
+      "explanation": "Hình bình hành có hai cặp cạnh đối song song và bằng nhau.",
+      "difficulty": 2
+     },
+     {
+      "text": "Hình chữ nhật dài 14 cm, rộng 19 cm. Chu vi là bao nhiêu?",
+      "options": [
+       "80 cm",
+       "266 cm",
+       "33 cm",
+       "66 cm"
+      ],
+      "correct_index": 3,
+      "explanation": "Chu vi = (dài + rộng) × 2 = (14 + 19) × 2 = 66 cm.",
+      "difficulty": 2
+     },
+     {
+      "text": "Hình chữ nhật dài 7 cm, rộng 9 cm. Chu vi là bao nhiêu?",
+      "options": [
+       "63 cm",
+       "16 cm",
+       "39 cm",
+       "32 cm"
+      ],
+      "correct_index": 3,
+      "explanation": "Chu vi = (dài + rộng) × 2 = (7 + 9) × 2 = 32 cm.",
+      "difficulty": 2
+     },
+     {
+      "text": "Hình chữ nhật dài 28 cm, rộng 20 cm. Chu vi là bao nhiêu?",
+      "options": [
+       "48 cm",
+       "96 cm",
+       "560 cm",
+       "124 cm"
+      ],
+      "correct_index": 1,
+      "explanation": "Chu vi = (dài + rộng) × 2 = (28 + 20) × 2 = 96 cm.",
+      "difficulty": 2
+     },
+     {
+      "text": "Hình chữ nhật dài 5 cm, rộng 25 cm. Chu vi là bao nhiêu?",
+      "options": [
+       "65 cm",
+       "125 cm",
+       "30 cm",
+       "60 cm"
+      ],
+      "correct_index": 3,
+      "explanation": "Chu vi = (dài + rộng) × 2 = (5 + 25) × 2 = 60 cm.",
+      "difficulty": 2
+     },
+     {
+      "text": "Hình chữ nhật dài 27 cm, rộng 18 cm. Chu vi là bao nhiêu?",
+      "options": [
+       "486 cm",
+       "117 cm",
+       "90 cm",
+       "45 cm"
+      ],
+      "correct_index": 2,
+      "explanation": "Chu vi = (dài + rộng) × 2 = (27 + 18) × 2 = 90 cm.",
+      "difficulty": 2
+     },
+     {
+      "text": "Hình chữ nhật dài 17 cm, rộng 22 cm. Chu vi là bao nhiêu?",
+      "options": [
+       "39 cm",
+       "78 cm",
+       "374 cm",
+       "95 cm"
+      ],
+      "correct_index": 1,
+      "explanation": "Chu vi = (dài + rộng) × 2 = (17 + 22) × 2 = 78 cm.",
+      "difficulty": 2
+     },
+     {
+      "text": "Hình chữ nhật dài 32 cm, rộng 23 cm. Chu vi là bao nhiêu?",
+      "options": [
+       "142 cm",
+       "110 cm",
+       "736 cm",
+       "55 cm"
+      ],
+      "correct_index": 1,
+      "explanation": "Chu vi = (dài + rộng) × 2 = (32 + 23) × 2 = 110 cm.",
+      "difficulty": 2
+     },
+     {
+      "text": "Hình chữ nhật dài 25 cm, rộng 10 cm. Diện tích là bao nhiêu?",
+      "options": [
+       "70 cm²",
+       "35 cm²",
+       "275 cm²",
+       "250 cm²"
+      ],
+      "correct_index": 3,
+      "explanation": "Diện tích = dài × rộng = 25 × 10 = 250 cm².",
+      "difficulty": 2
+     },
+     {
+      "text": "Hình chữ nhật dài 11 cm, rộng 15 cm. Diện tích là bao nhiêu?",
+      "options": [
+       "165 cm²",
+       "26 cm²",
+       "176 cm²",
+       "52 cm²"
+      ],
+      "correct_index": 0,
+      "explanation": "Diện tích = dài × rộng = 11 × 15 = 165 cm².",
+      "difficulty": 2
+     },
+     {
+      "text": "Hình chữ nhật dài 7 cm, rộng 18 cm. Diện tích là bao nhiêu?",
+      "options": [
+       "25 cm²",
+       "126 cm²",
+       "50 cm²",
+       "133 cm²"
+      ],
+      "correct_index": 1,
+      "explanation": "Diện tích = dài × rộng = 7 × 18 = 126 cm².",
+      "difficulty": 2
+     },
+     {
+      "text": "Hình chữ nhật dài 14 cm, rộng 9 cm. Diện tích là bao nhiêu?",
+      "options": [
+       "126 cm²",
+       "140 cm²",
+       "23 cm²",
+       "46 cm²"
+      ],
+      "correct_index": 0,
+      "explanation": "Diện tích = dài × rộng = 14 × 9 = 126 cm².",
+      "difficulty": 2
+     },
+     {
+      "text": "Hình chữ nhật dài 23 cm, rộng 9 cm. Diện tích là bao nhiêu?",
+      "options": [
+       "207 cm²",
+       "32 cm²",
+       "230 cm²",
+       "64 cm²"
+      ],
+      "correct_index": 0,
+      "explanation": "Diện tích = dài × rộng = 23 × 9 = 207 cm².",
+      "difficulty": 2
+     },
+     {
+      "text": "Hình chữ nhật dài 24 cm, rộng 11 cm. Diện tích là bao nhiêu?",
+      "options": [
+       "70 cm²",
+       "288 cm²",
+       "35 cm²",
+       "264 cm²"
+      ],
+      "correct_index": 3,
+      "explanation": "Diện tích = dài × rộng = 24 × 11 = 264 cm².",
+      "difficulty": 2
+     },
+     {
+      "text": "Hình chữ nhật dài 22 cm, rộng 17 cm. Diện tích là bao nhiêu?",
+      "options": [
+       "39 cm²",
+       "396 cm²",
+       "78 cm²",
+       "374 cm²"
+      ],
+      "correct_index": 3,
+      "explanation": "Diện tích = dài × rộng = 22 × 17 = 374 cm².",
+      "difficulty": 2
+     },
+     {
+      "text": "Hình vuông có cạnh 26 cm. Chu vi là bao nhiêu?",
+      "options": [
+       "108 cm",
+       "676 cm",
+       "104 cm",
+       "52 cm"
+      ],
+      "correct_index": 2,
+      "explanation": "Chu vi hình vuông = cạnh × 4 = 26 × 4 = 104 cm.",
+      "difficulty": 1
+     },
+     {
+      "text": "Hình vuông có cạnh 15 cm. Diện tích là bao nhiêu?",
+      "options": [
+       "60 cm²",
+       "240 cm²",
+       "30 cm²",
+       "225 cm²"
+      ],
+      "correct_index": 3,
+      "explanation": "Diện tích hình vuông = cạnh × cạnh = 15 × 15 = 225 cm².",
+      "difficulty": 2
+     },
+     {
+      "text": "Hình vuông có cạnh 9 cm. Chu vi là bao nhiêu?",
+      "options": [
+       "81 cm",
+       "36 cm",
+       "18 cm",
+       "40 cm"
+      ],
+      "correct_index": 1,
+      "explanation": "Chu vi hình vuông = cạnh × 4 = 9 × 4 = 36 cm.",
+      "difficulty": 1
+     },
+     {
+      "text": "Hình vuông có cạnh 13 cm. Diện tích là bao nhiêu?",
+      "options": [
+       "182 cm²",
+       "52 cm²",
+       "169 cm²",
+       "26 cm²"
+      ],
+      "correct_index": 2,
+      "explanation": "Diện tích hình vuông = cạnh × cạnh = 13 × 13 = 169 cm².",
+      "difficulty": 2
+     },
+     {
+      "text": "Hình vuông có cạnh 20 cm. Chu vi là bao nhiêu?",
+      "options": [
+       "80 cm",
+       "400 cm",
+       "84 cm",
+       "40 cm"
+      ],
+      "correct_index": 0,
+      "explanation": "Chu vi hình vuông = cạnh × 4 = 20 × 4 = 80 cm.",
+      "difficulty": 1
+     },
+     {
+      "text": "Hình vuông có cạnh 7 cm. Diện tích là bao nhiêu?",
+      "options": [
+       "49 cm²",
+       "56 cm²",
+       "14 cm²",
+       "28 cm²"
+      ],
+      "correct_index": 0,
+      "explanation": "Diện tích hình vuông = cạnh × cạnh = 7 × 7 = 49 cm².",
+      "difficulty": 2
+     }
+    ]
+   },
+   {
+    "name": "Đại lượng",
+    "questions": [
+     {
+      "text": "2 m = … cm",
+      "options": [
+       "300",
+       "2000",
+       "200",
+       "20"
+      ],
+      "correct_index": 2,
+      "explanation": "1 m = 100 cm nên 2 m = 2 × 100 = 200 cm.",
+      "difficulty": 1
+     },
+     {
+      "text": "6 km = … m",
+      "options": [
+       "7000",
+       "60000",
+       "600",
+       "6000"
+      ],
+      "correct_index": 3,
+      "explanation": "1 km = 1000 m nên 6 km = 6 × 1000 = 6000 m.",
+      "difficulty": 2
+     },
+     {
+      "text": "6 kg = … g",
+      "options": [
+       "600",
+       "6000",
+       "7000",
+       "60000"
+      ],
+      "correct_index": 1,
+      "explanation": "1 kg = 1000 g nên 6 kg = 6 × 1000 = 6000 g.",
+      "difficulty": 2
+     },
+     {
+      "text": "2 giờ = … phút",
+      "options": [
+       "1200",
+       "12",
+       "120",
+       "180"
+      ],
+      "correct_index": 2,
+      "explanation": "1 giờ = 60 phút nên 2 giờ = 2 × 60 = 120 phút.",
+      "difficulty": 1
+     },
+     {
+      "text": "3 phút = … giây",
+      "options": [
+       "240",
+       "18",
+       "180",
+       "1800"
+      ],
+      "correct_index": 2,
+      "explanation": "1 phút = 60 giây nên 3 phút = 3 × 60 = 180 giây.",
+      "difficulty": 1
+     },
+     {
+      "text": "2 yến = … kg",
+      "options": [
+       "2",
+       "20",
+       "30",
+       "200"
+      ],
+      "correct_index": 1,
+      "explanation": "1 yến = 10 kg nên 2 yến = 2 × 10 = 20 kg.",
+      "difficulty": 1
+     },
+     {
+      "text": "4 tạ = … kg",
+      "options": [
+       "500",
+       "4000",
+       "400",
+       "40"
+      ],
+      "correct_index": 2,
+      "explanation": "1 tạ = 100 kg nên 4 tạ = 4 × 100 = 400 kg.",
+      "difficulty": 1
+     },
+     {
+      "text": "7 tấn = … kg",
+      "options": [
+       "70000",
+       "7000",
+       "8000",
+       "700"
+      ],
+      "correct_index": 1,
+      "explanation": "1 tấn = 1000 kg nên 7 tấn = 7 × 1000 = 7000 kg.",
+      "difficulty": 2
+     },
+     {
+      "text": "3 m = … cm",
+      "options": [
+       "3000",
+       "300",
+       "400",
+       "30"
+      ],
+      "correct_index": 1,
+      "explanation": "1 m = 100 cm nên 3 m = 3 × 100 = 300 cm.",
+      "difficulty": 1
+     },
+     {
+      "text": "8 km = … m",
+      "options": [
+       "800",
+       "80000",
+       "8000",
+       "9000"
+      ],
+      "correct_index": 2,
+      "explanation": "1 km = 1000 m nên 8 km = 8 × 1000 = 8000 m.",
+      "difficulty": 2
+     },
+     {
+      "text": "7 kg = … g",
+      "options": [
+       "700",
+       "8000",
+       "70000",
+       "7000"
+      ],
+      "correct_index": 3,
+      "explanation": "1 kg = 1000 g nên 7 kg = 7 × 1000 = 7000 g.",
+      "difficulty": 2
+     },
+     {
+      "text": "9 giờ = … phút",
+      "options": [
+       "54",
+       "540",
+       "5400",
+       "600"
+      ],
+      "correct_index": 1,
+      "explanation": "1 giờ = 60 phút nên 9 giờ = 9 × 60 = 540 phút.",
+      "difficulty": 1
+     },
+     {
+      "text": "3 phút = … giây",
+      "options": [
+       "240",
+       "18",
+       "180",
+       "1800"
+      ],
+      "correct_index": 2,
+      "explanation": "1 phút = 60 giây nên 3 phút = 3 × 60 = 180 giây.",
+      "difficulty": 1
+     },
+     {
+      "text": "2 yến = … kg",
+      "options": [
+       "2",
+       "30",
+       "200",
+       "20"
+      ],
+      "correct_index": 3,
+      "explanation": "1 yến = 10 kg nên 2 yến = 2 × 10 = 20 kg.",
+      "difficulty": 1
+     },
+     {
+      "text": "4 tạ = … kg",
+      "options": [
+       "4000",
+       "40",
+       "400",
+       "500"
+      ],
+      "correct_index": 2,
+      "explanation": "1 tạ = 100 kg nên 4 tạ = 4 × 100 = 400 kg.",
+      "difficulty": 1
+     },
+     {
+      "text": "7 tấn = … kg",
+      "options": [
+       "70000",
+       "7000",
+       "8000",
+       "700"
+      ],
+      "correct_index": 1,
+      "explanation": "1 tấn = 1000 kg nên 7 tấn = 7 × 1000 = 7000 kg.",
+      "difficulty": 2
+     }
+    ]
+   },
+   {
+    "name": "Giải toán có lời văn",
+    "questions": [
+     {
+      "text": "Lan có 294 quyển vở. Mẹ mua thêm 133 quyển. Hỏi Lan có tất cả bao nhiêu quyển vở?",
+      "options": [
+       "428",
+       "417",
+       "527",
+       "427"
+      ],
+      "correct_index": 3,
+      "explanation": "Số vở có tất cả: 294 + 133 = 427 (quyển).",
+      "difficulty": 1
+     },
+     {
+      "text": "Lan có 158 quyển vở. Mẹ mua thêm 108 quyển. Hỏi Lan có tất cả bao nhiêu quyển vở?",
+      "options": [
+       "276",
+       "266",
+       "265",
+       "267"
+      ],
+      "correct_index": 1,
+      "explanation": "Số vở có tất cả: 158 + 108 = 266 (quyển).",
+      "difficulty": 1
+     },
+     {
+      "text": "Lan có 166 quyển vở. Mẹ mua thêm 149 quyển. Hỏi Lan có tất cả bao nhiêu quyển vở?",
+      "options": [
+       "325",
+       "317",
+       "314",
+       "315"
+      ],
+      "correct_index": 3,
+      "explanation": "Số vở có tất cả: 166 + 149 = 315 (quyển).",
+      "difficulty": 1
+     },
+     {
+      "text": "Cửa hàng có 226 kg gạo, đã bán 116 kg. Hỏi còn lại bao nhiêu ki-lô-gam gạo?",
+      "options": [
+       "210",
+       "110",
+       "100",
+       "10"
+      ],
+      "correct_index": 1,
+      "explanation": "Số gạo còn lại: 226 − 116 = 110 (kg).",
+      "difficulty": 1
+     },
+     {
+      "text": "Cửa hàng có 275 kg gạo, đã bán 219 kg. Hỏi còn lại bao nhiêu ki-lô-gam gạo?",
+      "options": [
+       "54",
+       "55",
+       "56",
+       "46"
+      ],
+      "correct_index": 2,
+      "explanation": "Số gạo còn lại: 275 − 219 = 56 (kg).",
+      "difficulty": 1
+     },
+     {
+      "text": "Cửa hàng có 258 kg gạo, đã bán 158 kg. Hỏi còn lại bao nhiêu ki-lô-gam gạo?",
+      "options": [
+       "200",
+       "90",
+       "98",
+       "100"
+      ],
+      "correct_index": 3,
+      "explanation": "Số gạo còn lại: 258 − 158 = 100 (kg).",
+      "difficulty": 1
+     },
+     {
+      "text": "Mỗi hộp có 6 cái kẹo. Hỏi 14 hộp như vậy có bao nhiêu cái kẹo?",
+      "options": [
+       "84",
+       "184",
+       "74",
+       "86"
+      ],
+      "correct_index": 0,
+      "explanation": "Số kẹo: 6 × 14 = 84 (cái).",
+      "difficulty": 2
+     },
+     {
+      "text": "Mỗi hộp có 20 cái kẹo. Hỏi 14 hộp như vậy có bao nhiêu cái kẹo?",
+      "options": [
+       "380",
+       "281",
+       "282",
+       "280"
+      ],
+      "correct_index": 3,
+      "explanation": "Số kẹo: 20 × 14 = 280 (cái).",
+      "difficulty": 2
+     },
+     {
+      "text": "Mỗi hộp có 25 cái kẹo. Hỏi 7 hộp như vậy có bao nhiêu cái kẹo?",
+      "options": [
+       "175",
+       "75",
+       "177",
+       "174"
+      ],
+      "correct_index": 0,
+      "explanation": "Số kẹo: 25 × 7 = 175 (cái).",
+      "difficulty": 2
+     },
+     {
+      "text": "Có 55 học sinh xếp đều thành 5 hàng. Hỏi mỗi hàng có bao nhiêu học sinh?",
+      "options": [
+       "9",
+       "12",
+       "16",
+       "11"
+      ],
+      "correct_index": 3,
+      "explanation": "Mỗi hàng có: 55 : 5 = 11 (học sinh).",
+      "difficulty": 2
+     },
+     {
+      "text": "Có 66 học sinh xếp đều thành 3 hàng. Hỏi mỗi hàng có bao nhiêu học sinh?",
+      "options": [
+       "122",
+       "22",
+       "32",
+       "20"
+      ],
+      "correct_index": 1,
+      "explanation": "Mỗi hàng có: 66 : 3 = 22 (học sinh).",
+      "difficulty": 2
+     },
+     {
+      "text": "Có 49 học sinh xếp đều thành 7 hàng. Hỏi mỗi hàng có bao nhiêu học sinh?",
+      "options": [
+       "10",
+       "7",
+       "8",
+       "5"
+      ],
+      "correct_index": 1,
+      "explanation": "Mỗi hàng có: 49 : 7 = 7 (học sinh).",
+      "difficulty": 2
+     },
+     {
+      "text": "Một mảnh vườn hình chữ nhật dài 54 m, rộng 5 m. Tính diện tích mảnh vườn.",
+      "options": [
+       "324 m²",
+       "270 m²",
+       "118 m²",
+       "59 m²"
+      ],
+      "correct_index": 1,
+      "explanation": "Diện tích: 54 × 5 = 270 (m²).",
+      "difficulty": 3
+     },
+     {
+      "text": "Một mảnh vườn hình chữ nhật dài 14 m, rộng 32 m. Tính diện tích mảnh vườn.",
+      "options": [
+       "462 m²",
+       "448 m²",
+       "92 m²",
+       "46 m²"
+      ],
+      "correct_index": 1,
+      "explanation": "Diện tích: 14 × 32 = 448 (m²).",
+      "difficulty": 3
+     },
+     {
+      "text": "Một mảnh vườn hình chữ nhật dài 43 m, rộng 23 m. Tính diện tích mảnh vườn.",
+      "options": [
+       "989 m²",
+       "132 m²",
+       "66 m²",
+       "1032 m²"
+      ],
+      "correct_index": 0,
+      "explanation": "Diện tích: 43 × 23 = 989 (m²).",
+      "difficulty": 3
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Tiếng Việt",
+  "icon": "📖",
+  "color": "#ff7a45",
+  "topics": [
+   {
+    "name": "Từ loại",
+    "questions": [
+     {
+      "text": "Từ nào là danh từ?",
+      "options": [
+       "đẹp",
+       "nhanh",
+       "chạy",
+       "bàn"
+      ],
+      "correct_index": 3,
+      "explanation": "Danh từ chỉ sự vật. “Bàn” là đồ vật.",
+      "difficulty": 1
+     },
+     {
+      "text": "Từ nào là động từ?",
+      "options": [
+       "quyển vở",
+       "xanh",
+       "ăn",
+       "cô giáo"
+      ],
+      "correct_index": 2,
+      "explanation": "Động từ chỉ hoạt động. “Ăn” là hoạt động.",
+      "difficulty": 1
+     },
+     {
+      "text": "Từ nào là tính từ?",
+      "options": [
+       "cao",
+       "đọc",
+       "trường",
+       "bút"
+      ],
+      "correct_index": 0,
+      "explanation": "Tính từ chỉ đặc điểm, tính chất.",
+      "difficulty": 1
+     },
+     {
+      "text": "Trong câu “Bé đang chơi đùa ngoài sân.”, động từ là từ nào?",
+      "options": [
+       "Bé",
+       "chơi đùa",
+       "sân",
+       "ngoài sân"
+      ],
+      "correct_index": 1,
+      "explanation": "“Chơi đùa” chỉ hoạt động của bé.",
+      "difficulty": 1
+     },
+     {
+      "text": "Từ nào chỉ đặc điểm?",
+      "options": [
+       "học bài",
+       "sách",
+       "xinh đẹp",
+       "bác sĩ"
+      ],
+      "correct_index": 2,
+      "explanation": "“Xinh đẹp” nói về đặc điểm.",
+      "difficulty": 1
+     },
+     {
+      "text": "Từ nào chỉ hoạt động?",
+      "options": [
+       "nhà",
+       "trắng",
+       "bơi",
+       "bầu trời"
+      ],
+      "correct_index": 2,
+      "explanation": "“Bơi” là hoạt động.",
+      "difficulty": 1
+     },
+     {
+      "text": "Từ nào chỉ người?",
+      "options": [
+       "học sinh",
+       "con gà",
+       "cây bàng",
+       "bàn học"
+      ],
+      "correct_index": 0,
+      "explanation": "“Học sinh” là danh từ chỉ người.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Mưa” là danh từ chỉ gì?",
+      "options": [
+       "đồ dùng",
+       "hiện tượng tự nhiên",
+       "con vật",
+       "người"
+      ],
+      "correct_index": 1,
+      "explanation": "Mưa là hiện tượng thiên nhiên.",
+      "difficulty": 1
+     },
+     {
+      "text": "Từ nào KHÔNG phải động từ?",
+      "options": [
+       "nhảy",
+       "xanh",
+       "viết",
+       "hát"
+      ],
+      "correct_index": 1,
+      "explanation": "“Xanh” chỉ màu sắc nên là tính từ.",
+      "difficulty": 1
+     },
+     {
+      "text": "Từ nào là danh từ chỉ con vật?",
+      "options": [
+       "chạy nhảy",
+       "to lớn",
+       "chăm chỉ",
+       "con trâu"
+      ],
+      "correct_index": 3,
+      "explanation": "“Con trâu” chỉ con vật.",
+      "difficulty": 1
+     }
+    ]
+   },
+   {
+    "name": "Từ đồng nghĩa – trái nghĩa",
+    "questions": [
+     {
+      "text": "Từ trái nghĩa với “nhanh” là gì?",
+      "options": [
+       "mạnh",
+       "chậm",
+       "đẹp",
+       "giỏi"
+      ],
+      "correct_index": 1,
+      "explanation": "Nhanh và chậm có nghĩa ngược nhau.",
+      "difficulty": 1
+     },
+     {
+      "text": "Từ trái nghĩa với “sáng” là gì?",
+      "options": [
+       "trắng",
+       "xa",
+       "tối",
+       "cao"
+      ],
+      "correct_index": 2,
+      "explanation": "Sáng ↔ tối.",
+      "difficulty": 1
+     },
+     {
+      "text": "Từ trái nghĩa với “vui” là gì?",
+      "options": [
+       "mừng",
+       "buồn",
+       "hát",
+       "cười"
+      ],
+      "correct_index": 1,
+      "explanation": "Vui ↔ buồn.",
+      "difficulty": 1
+     },
+     {
+      "text": "Từ đồng nghĩa với “chăm chỉ” là gì?",
+      "options": [
+       "vui vẻ",
+       "siêng năng",
+       "lười biếng",
+       "nhanh nhẹn"
+      ],
+      "correct_index": 1,
+      "explanation": "Chăm chỉ = siêng năng.",
+      "difficulty": 1
+     },
+     {
+      "text": "Từ đồng nghĩa với “xinh đẹp” là gì?",
+      "options": [
+       "thấp bé",
+       "ồn ào",
+       "đẹp đẽ",
+       "xấu xí"
+      ],
+      "correct_index": 2,
+      "explanation": "Cùng nói về vẻ đẹp.",
+      "difficulty": 1
+     },
+     {
+      "text": "Từ trái nghĩa với “nóng” là gì?",
+      "options": [
+       "lạnh",
+       "cứng",
+       "nhẹ",
+       "khô"
+      ],
+      "correct_index": 0,
+      "explanation": "Nóng ↔ lạnh.",
+      "difficulty": 1
+     },
+     {
+      "text": "Từ đồng nghĩa với “bao la” là gì?",
+      "options": [
+       "ngắn ngủi",
+       "chật hẹp",
+       "mênh mông",
+       "nhỏ bé"
+      ],
+      "correct_index": 2,
+      "explanation": "Đều chỉ không gian rất rộng.",
+      "difficulty": 1
+     },
+     {
+      "text": "Từ trái nghĩa với “dũng cảm” là gì?",
+      "options": [
+       "thông minh",
+       "hèn nhát",
+       "kiên cường",
+       "mạnh mẽ"
+      ],
+      "correct_index": 1,
+      "explanation": "Dũng cảm ↔ hèn nhát.",
+      "difficulty": 1
+     },
+     {
+      "text": "Từ trái nghĩa với “trong” (nước trong) là gì?",
+      "options": [
+       "mát",
+       "sạch",
+       "đục",
+       "sâu"
+      ],
+      "correct_index": 2,
+      "explanation": "Nước trong ↔ nước đục.",
+      "difficulty": 1
+     },
+     {
+      "text": "Từ đồng nghĩa với “mẹ” là gì?",
+      "options": [
+       "ba",
+       "anh",
+       "chú",
+       "má"
+      ],
+      "correct_index": 3,
+      "explanation": "Mẹ, má, u, bầm... đều chỉ người sinh ra mình.",
+      "difficulty": 1
+     }
+    ]
+   },
+   {
+    "name": "Dấu câu và chính tả",
+    "questions": [
+     {
+      "text": "Cuối câu hỏi ta dùng dấu gì?",
+      "options": [
+       "dấu chấm hỏi (?)",
+       "dấu chấm than (!)",
+       "dấu phẩy (,)",
+       "dấu chấm (.)"
+      ],
+      "correct_index": 0,
+      "explanation": "Câu hỏi kết thúc bằng dấu chấm hỏi.",
+      "difficulty": 1
+     },
+     {
+      "text": "Cuối câu cảm thán ta thường dùng dấu gì?",
+      "options": [
+       "dấu hai chấm (:)",
+       "dấu phẩy (,)",
+       "dấu chấm (.)",
+       "dấu chấm than (!)"
+      ],
+      "correct_index": 3,
+      "explanation": "Câu cảm thán bộc lộ cảm xúc, kết thúc bằng dấu chấm than.",
+      "difficulty": 1
+     },
+     {
+      "text": "Dấu phẩy dùng để làm gì?",
+      "options": [
+       "kết thúc câu",
+       "ngăn cách các bộ phận trong câu",
+       "báo hiệu câu hỏi",
+       "mở đầu đoạn văn"
+      ],
+      "correct_index": 1,
+      "explanation": "Dấu phẩy ngăn cách các từ, cụm từ trong câu.",
+      "difficulty": 1
+     },
+     {
+      "text": "Từ nào viết đúng chính tả?",
+      "options": [
+       "trăm chỉ",
+       "chăm chĩ",
+       "chăm chỉ",
+       "trăm chĩ"
+      ],
+      "correct_index": 2,
+      "explanation": "Viết đúng là “chăm chỉ”.",
+      "difficulty": 1
+     },
+     {
+      "text": "Từ nào viết đúng chính tả?",
+      "options": [
+       "xinh xắn",
+       "sinh sắn",
+       "xinh sắn",
+       "sinh xắn"
+      ],
+      "correct_index": 0,
+      "explanation": "Viết đúng là “xinh xắn”.",
+      "difficulty": 1
+     },
+     {
+      "text": "Từ nào viết đúng chính tả?",
+      "options": [
+       "ruộng lúa",
+       "zuộng lúa",
+       "giuộng lúa",
+       "duộng lúa"
+      ],
+      "correct_index": 0,
+      "explanation": "Viết đúng là “ruộng lúa”.",
+      "difficulty": 1
+     },
+     {
+      "text": "Từ nào viết đúng chính tả?",
+      "options": [
+       "giúp đở",
+       "giúp đỡ",
+       "dúp đỡ",
+       "rúp đỡ"
+      ],
+      "correct_index": 1,
+      "explanation": "Viết đúng là “giúp đỡ”.",
+      "difficulty": 1
+     },
+     {
+      "text": "Từ nào viết đúng chính tả?",
+      "options": [
+       "sáng xủa",
+       "sáng sủa",
+       "sáng sũa",
+       "xáng sủa"
+      ],
+      "correct_index": 1,
+      "explanation": "Viết đúng là “sáng sủa”.",
+      "difficulty": 1
+     },
+     {
+      "text": "Dấu hai chấm (:) thường dùng để làm gì?",
+      "options": [
+       "báo hiệu lời nói hoặc phần liệt kê",
+       "ngắt nghỉ rất ngắn",
+       "kết thúc câu hỏi",
+       "nối hai từ"
+      ],
+      "correct_index": 0,
+      "explanation": "Sau dấu hai chấm thường là lời nói hoặc các ý liệt kê.",
+      "difficulty": 1
+     },
+     {
+      "text": "Câu “Hôm nay trời đẹp quá” nên kết thúc bằng dấu nào?",
+      "options": [
+       "dấu hai chấm (:)",
+       "dấu chấm than (!)",
+       "dấu chấm hỏi (?)",
+       "dấu phẩy (,)"
+      ],
+      "correct_index": 1,
+      "explanation": "Đây là câu cảm thán.",
+      "difficulty": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Khoa học",
+  "icon": "🔬",
+  "color": "#2eb872",
+  "topics": [
+   {
+    "name": "Con người và sức khỏe",
+    "questions": [
+     {
+      "text": "Cơ quan nào giúp chúng ta hít thở?",
+      "options": [
+       "tim",
+       "gan",
+       "dạ dày",
+       "phổi"
+      ],
+      "correct_index": 3,
+      "explanation": "Phổi giúp trao đổi khí.",
+      "difficulty": 1
+     },
+     {
+      "text": "Cơ quan nào bơm máu đi khắp cơ thể?",
+      "options": [
+       "tim",
+       "phổi",
+       "não",
+       "thận"
+      ],
+      "correct_index": 0,
+      "explanation": "Tim co bóp đẩy máu đi nuôi cơ thể.",
+      "difficulty": 1
+     },
+     {
+      "text": "Nên đánh răng ít nhất mấy lần mỗi ngày?",
+      "options": [
+       "1 lần",
+       "mỗi tuần 1 lần",
+       "2 lần",
+       "không cần"
+      ],
+      "correct_index": 2,
+      "explanation": "Sáng và tối giúp răng sạch, chắc khỏe.",
+      "difficulty": 1
+     },
+     {
+      "text": "Nhóm thức ăn nào giàu chất đạm?",
+      "options": [
+       "rau, củ",
+       "cơm, bánh mì",
+       "thịt, cá, trứng",
+       "dầu, mỡ"
+      ],
+      "correct_index": 2,
+      "explanation": "Chất đạm giúp cơ thể lớn lên và khỏe mạnh.",
+      "difficulty": 1
+     },
+     {
+      "text": "Thức ăn nào cung cấp nhiều vi-ta-min?",
+      "options": [
+       "mỡ",
+       "kẹo",
+       "nước ngọt",
+       "rau, quả"
+      ],
+      "correct_index": 3,
+      "explanation": "Rau và quả tươi giàu vi-ta-min và chất xơ.",
+      "difficulty": 1
+     },
+     {
+      "text": "Bộ phận nào điều khiển mọi hoạt động của cơ thể?",
+      "options": [
+       "xương",
+       "não",
+       "da",
+       "ruột"
+      ],
+      "correct_index": 1,
+      "explanation": "Não là trung tâm điều khiển.",
+      "difficulty": 1
+     },
+     {
+      "text": "Vì sao cần rửa tay trước khi ăn?",
+      "options": [
+       "để loại bỏ vi khuẩn",
+       "để tay to hơn",
+       "để tay thơm",
+       "không cần thiết"
+      ],
+      "correct_index": 0,
+      "explanation": "Tay bẩn có thể mang vi khuẩn gây bệnh.",
+      "difficulty": 1
+     },
+     {
+      "text": "Ngủ đủ giấc giúp em điều gì?",
+      "options": [
+       "mau đói",
+       "giảm chiều cao",
+       "dễ ốm hơn",
+       "khỏe mạnh và học tập tập trung"
+      ],
+      "correct_index": 3,
+      "explanation": "Ngủ đủ giúp cơ thể và trí óc nghỉ ngơi.",
+      "difficulty": 1
+     },
+     {
+      "text": "Ăn quá nhiều đồ ngọt có hại cho răng.",
+      "options": [
+       "Đúng",
+       "Sai"
+      ],
+      "correct_index": 0,
+      "explanation": "Đồ ngọt dễ gây sâu răng.",
+      "difficulty": 1
+     },
+     {
+      "text": "Nguồn cung cấp năng lượng chính cho cơ thể là chất nào?",
+      "options": [
+       "chất khoáng",
+       "chất xơ",
+       "nước",
+       "chất bột đường"
+      ],
+      "correct_index": 3,
+      "explanation": "Cơm, bánh mì, khoai... cho nhiều năng lượng.",
+      "difficulty": 1
+     }
+    ]
+   },
+   {
+    "name": "Động vật và thực vật",
+    "questions": [
+     {
+      "text": "Cây xanh hấp thụ khí nào để quang hợp?",
+      "options": [
+       "khí các-bô-níc",
+       "khí ôxi",
+       "khí hy-đrô",
+       "khí ni-tơ"
+      ],
+      "correct_index": 0,
+      "explanation": "Cây dùng khí các-bô-níc và ánh sáng để tạo chất dinh dưỡng.",
+      "difficulty": 1
+     },
+     {
+      "text": "Bộ phận nào của cây hút nước từ đất?",
+      "options": [
+       "quả",
+       "hoa",
+       "rễ",
+       "lá"
+      ],
+      "correct_index": 2,
+      "explanation": "Rễ hút nước và muối khoáng.",
+      "difficulty": 1
+     },
+     {
+      "text": "Bộ phận nào của cây chủ yếu làm nhiệm vụ quang hợp?",
+      "options": [
+       "hạt",
+       "rễ",
+       "thân",
+       "lá"
+      ],
+      "correct_index": 3,
+      "explanation": "Lá có chất diệp lục nên quang hợp.",
+      "difficulty": 1
+     },
+     {
+      "text": "Động vật nào đẻ trứng?",
+      "options": [
+       "chó",
+       "mèo",
+       "gà",
+       "bò"
+      ],
+      "correct_index": 2,
+      "explanation": "Gà là loài chim, đẻ trứng.",
+      "difficulty": 1
+     },
+     {
+      "text": "Động vật nào là loài thú?",
+      "options": [
+       "chim sẻ",
+       "con voi",
+       "con ếch",
+       "cá chép"
+      ],
+      "correct_index": 1,
+      "explanation": "Thú đẻ con và nuôi con bằng sữa.",
+      "difficulty": 1
+     },
+     {
+      "text": "Con vật nào ăn cỏ?",
+      "options": [
+       "hổ",
+       "cá mập",
+       "con trâu",
+       "sư tử"
+      ],
+      "correct_index": 2,
+      "explanation": "Trâu là động vật ăn cỏ.",
+      "difficulty": 1
+     },
+     {
+      "text": "Cá thở bằng bộ phận nào?",
+      "options": [
+       "mang",
+       "phổi",
+       "lông",
+       "mũi"
+      ],
+      "correct_index": 0,
+      "explanation": "Cá lấy ôxi trong nước nhờ mang.",
+      "difficulty": 1
+     },
+     {
+      "text": "Hạt nảy mầm cần những gì?",
+      "options": [
+       "nước, không khí và nhiệt độ thích hợp",
+       "chỉ cần ánh sáng",
+       "chỉ cần đất",
+       "chỉ cần phân bón"
+      ],
+      "correct_index": 0,
+      "explanation": "Đó là các điều kiện cần cho hạt nảy mầm.",
+      "difficulty": 1
+     },
+     {
+      "text": "Con dơi là loài chim.",
+      "options": [
+       "Đúng",
+       "Sai"
+      ],
+      "correct_index": 1,
+      "explanation": "Dơi đẻ con và nuôi con bằng sữa nên là loài thú.",
+      "difficulty": 1
+     },
+     {
+      "text": "Chuỗi thức ăn nào đúng?",
+      "options": [
+       "Châu chấu → Ếch → Cỏ",
+       "Ếch → Cỏ → Châu chấu",
+       "Cỏ → Ếch → Châu chấu",
+       "Cỏ → Châu chấu → Ếch"
+      ],
+      "correct_index": 3,
+      "explanation": "Sinh vật này là thức ăn của sinh vật kế tiếp.",
+      "difficulty": 1
+     }
+    ]
+   },
+   {
+    "name": "Nước, không khí và năng lượng",
+    "questions": [
+     {
+      "text": "Nước sôi ở bao nhiêu độ C?",
+      "options": [
+       "120",
+       "80",
+       "50",
+       "100"
+      ],
+      "correct_index": 3,
+      "explanation": "Ở điều kiện bình thường, nước sôi ở 100 độ C.",
+      "difficulty": 1
+     },
+     {
+      "text": "Nước đá là nước ở thể rắn.",
+      "options": [
+       "Đúng",
+       "Sai"
+      ],
+      "correct_index": 0,
+      "explanation": "Nước đông lại ở 0 độ C thành nước đá.",
+      "difficulty": 1
+     },
+     {
+      "text": "Nước có tính chất nào?",
+      "options": [
+       "màu xanh",
+       "không màu, không mùi, không vị",
+       "mùi thơm",
+       "vị ngọt"
+      ],
+      "correct_index": 1,
+      "explanation": "Nước tinh khiết không màu, không mùi, không vị.",
+      "difficulty": 1
+     },
+     {
+      "text": "Con người cần khí nào để thở?",
+      "options": [
+       "các-bô-níc",
+       "hy-đrô",
+       "ôxi",
+       "ni-tơ"
+      ],
+      "correct_index": 2,
+      "explanation": "Ôxi giúp cơ thể sống và hoạt động.",
+      "difficulty": 1
+     },
+     {
+      "text": "Không khí có màu.",
+      "options": [
+       "Đúng",
+       "Sai"
+      ],
+      "correct_index": 1,
+      "explanation": "Không khí trong suốt, không màu, không mùi.",
+      "difficulty": 1
+     },
+     {
+      "text": "Nguồn năng lượng chính của Trái Đất là gì?",
+      "options": [
+       "Mặt Trăng",
+       "Mặt Trời",
+       "gió",
+       "than đá"
+      ],
+      "correct_index": 1,
+      "explanation": "Mặt Trời cho ánh sáng và nhiệt.",
+      "difficulty": 1
+     },
+     {
+      "text": "Hơi nước gặp lạnh biến thành giọt nước gọi là gì?",
+      "options": [
+       "bay hơi",
+       "ngưng tụ",
+       "nóng chảy",
+       "đông đặc"
+      ],
+      "correct_index": 1,
+      "explanation": "Hơi nước → nước lỏng gọi là ngưng tụ.",
+      "difficulty": 1
+     },
+     {
+      "text": "Nước biến thành hơi nước gọi là gì?",
+      "options": [
+       "đông đặc",
+       "bay hơi",
+       "nóng chảy",
+       "ngưng tụ"
+      ],
+      "correct_index": 1,
+      "explanation": "Nước lỏng → hơi nước gọi là bay hơi.",
+      "difficulty": 1
+     },
+     {
+      "text": "Nguồn năng lượng nào có thể tái tạo?",
+      "options": [
+       "khí đốt",
+       "than đá",
+       "dầu mỏ",
+       "gió"
+      ],
+      "correct_index": 3,
+      "explanation": "Gió, nắng không bị cạn kiệt.",
+      "difficulty": 1
+     },
+     {
+      "text": "Để tiết kiệm nước, em nên làm gì?",
+      "options": [
+       "rửa tay thật lâu",
+       "mở vòi chảy liên tục",
+       "xả nước chơi",
+       "khóa vòi khi không dùng"
+      ],
+      "correct_index": 3,
+      "explanation": "Khóa vòi giúp tiết kiệm nước.",
+      "difficulty": 1
+     },
+     {
+      "text": "Âm thanh được tạo ra khi vật như thế nào?",
+      "options": [
+       "rung động",
+       "đứng yên",
+       "lạnh đi",
+       "nóng lên"
+      ],
+      "correct_index": 0,
+      "explanation": "Vật rung động tạo ra âm thanh.",
+      "difficulty": 1
+     },
+     {
+      "text": "Vật nào là vật cách điện?",
+      "options": [
+       "đồng",
+       "nhôm",
+       "nhựa",
+       "sắt"
+      ],
+      "correct_index": 2,
+      "explanation": "Kim loại dẫn điện, nhựa thì không.",
+      "difficulty": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Lịch sử – Địa lý",
+  "icon": "🗺️",
+  "color": "#9b5de5",
+  "topics": [
+   {
+    "name": "Địa lý Việt Nam",
+    "questions": [
+     {
+      "text": "Thủ đô của Việt Nam là gì?",
+      "options": [
+       "TP. Hồ Chí Minh",
+       "Huế",
+       "Đà Nẵng",
+       "Hà Nội"
+      ],
+      "correct_index": 3,
+      "explanation": "Hà Nội là thủ đô của nước ta.",
+      "difficulty": 1
+     },
+     {
+      "text": "Dãy núi cao nhất Việt Nam là gì?",
+      "options": [
+       "Tam Đảo",
+       "Trường Sơn",
+       "Bạch Mã",
+       "Hoàng Liên Sơn"
+      ],
+      "correct_index": 3,
+      "explanation": "Đỉnh Phan-xi-păng thuộc dãy Hoàng Liên Sơn.",
+      "difficulty": 1
+     },
+     {
+      "text": "Đồng bằng lớn nhất ở miền Bắc là gì?",
+      "options": [
+       "Đồng bằng duyên hải miền Trung",
+       "Tây Nguyên",
+       "Đồng bằng sông Cửu Long",
+       "Đồng bằng sông Hồng"
+      ],
+      "correct_index": 3,
+      "explanation": "Sông Hồng bồi đắp nên đồng bằng Bắc Bộ.",
+      "difficulty": 1
+     },
+     {
+      "text": "Sông Cửu Long chảy qua vùng Nam Bộ.",
+      "options": [
+       "Đúng",
+       "Sai"
+      ],
+      "correct_index": 0,
+      "explanation": "Đồng bằng sông Cửu Long ở Nam Bộ.",
+      "difficulty": 1
+     },
+     {
+      "text": "Tây Nguyên nổi tiếng với cây gì?",
+      "options": [
+       "cà phê",
+       "cây thốt nốt",
+       "cây dừa",
+       "hoa anh đào"
+      ],
+      "correct_index": 0,
+      "explanation": "Tây Nguyên trồng nhiều cà phê.",
+      "difficulty": 1
+     },
+     {
+      "text": "Thành phố đông dân nhất nước ta là gì?",
+      "options": [
+       "Đà Nẵng",
+       "TP. Hồ Chí Minh",
+       "Huế",
+       "Cần Thơ"
+      ],
+      "correct_index": 1,
+      "explanation": "TP. Hồ Chí Minh có dân số đông nhất cả nước.",
+      "difficulty": 1
+     },
+     {
+      "text": "Vịnh Hạ Long thuộc tỉnh nào?",
+      "options": [
+       "Kiên Giang",
+       "Bình Định",
+       "Quảng Ninh",
+       "Khánh Hòa"
+      ],
+      "correct_index": 2,
+      "explanation": "Vịnh Hạ Long ở Quảng Ninh.",
+      "difficulty": 1
+     },
+     {
+      "text": "Biển Đông nằm ở phía nào của nước ta?",
+      "options": [
+       "phía đông",
+       "phía nam",
+       "phía bắc",
+       "phía tây"
+      ],
+      "correct_index": 0,
+      "explanation": "Biển Đông ở phía đông và nam nước ta.",
+      "difficulty": 1
+     },
+     {
+      "text": "Việt Nam có đường bờ biển dài.",
+      "options": [
+       "Đúng",
+       "Sai"
+      ],
+      "correct_index": 0,
+      "explanation": "Bờ biển nước ta dài hơn 3 260 km.",
+      "difficulty": 1
+     },
+     {
+      "text": "Cố đô Huế thuộc miền nào?",
+      "options": [
+       "Tây Bắc",
+       "miền Trung",
+       "miền Nam",
+       "miền Bắc"
+      ],
+      "correct_index": 1,
+      "explanation": "Huế nằm ở miền Trung.",
+      "difficulty": 1
+     },
+     {
+      "text": "Đà Nẵng thuộc miền nào?",
+      "options": [
+       "miền Bắc",
+       "Tây Bắc",
+       "miền Nam",
+       "miền Trung"
+      ],
+      "correct_index": 3,
+      "explanation": "Đà Nẵng nằm ở duyên hải miền Trung.",
+      "difficulty": 1
+     },
+     {
+      "text": "Đồng bằng sông Cửu Long được gọi là gì?",
+      "options": [
+       "vựa cà phê",
+       "vựa lúa của cả nước",
+       "vựa chè",
+       "vựa muối"
+      ],
+      "correct_index": 1,
+      "explanation": "Nơi đây sản xuất nhiều lúa gạo nhất.",
+      "difficulty": 1
+     }
+    ]
+   },
+   {
+    "name": "Lịch sử Việt Nam",
+    "questions": [
+     {
+      "text": "Các vua Hùng dựng nên nước nào?",
+      "options": [
+       "Văn Lang",
+       "Âu Lạc",
+       "Đại Việt",
+       "Đại Cồ Việt"
+      ],
+      "correct_index": 0,
+      "explanation": "Nhà nước đầu tiên của người Việt là Văn Lang.",
+      "difficulty": 1
+     },
+     {
+      "text": "Ngô Quyền đánh thắng quân Nam Hán trên sông nào?",
+      "options": [
+       "sông Hồng",
+       "sông Bạch Đằng",
+       "sông Cửu Long",
+       "sông Mã"
+      ],
+      "correct_index": 1,
+      "explanation": "Chiến thắng Bạch Đằng năm 938.",
+      "difficulty": 1
+     },
+     {
+      "text": "Hai Bà Trưng khởi nghĩa chống quân nào?",
+      "options": [
+       "quân Mông – Nguyên",
+       "quân Hán",
+       "quân Minh",
+       "quân Thanh"
+      ],
+      "correct_index": 1,
+      "explanation": "Năm 40, Hai Bà Trưng đánh quân nhà Hán.",
+      "difficulty": 1
+     },
+     {
+      "text": "Vị vua dời đô về Thăng Long là ai?",
+      "options": [
+       "Ngô Quyền",
+       "Lê Lợi",
+       "Lý Thái Tổ",
+       "Trần Hưng Đạo"
+      ],
+      "correct_index": 2,
+      "explanation": "Năm 1010, Lý Thái Tổ dời đô về Thăng Long.",
+      "difficulty": 1
+     },
+     {
+      "text": "Trần Hưng Đạo lãnh đạo kháng chiến chống quân nào?",
+      "options": [
+       "quân Hán",
+       "quân Minh",
+       "quân Thanh",
+       "quân Mông – Nguyên"
+      ],
+      "correct_index": 3,
+      "explanation": "Ba lần đánh thắng quân Mông – Nguyên.",
+      "difficulty": 1
+     },
+     {
+      "text": "Lê Lợi lãnh đạo khởi nghĩa Lam Sơn chống quân nào?",
+      "options": [
+       "quân Tống",
+       "quân Hán",
+       "quân Thanh",
+       "quân Minh"
+      ],
+      "correct_index": 3,
+      "explanation": "Khởi nghĩa Lam Sơn chống quân Minh.",
+      "difficulty": 1
+     },
+     {
+      "text": "Kinh đô được đặt tên là Thăng Long vào năm nào?",
+      "options": [
+       "1428",
+       "938",
+       "1010",
+       "1288"
+      ],
+      "correct_index": 2,
+      "explanation": "Năm 1010 Lý Thái Tổ dời đô và đặt tên Thăng Long.",
+      "difficulty": 1
+     },
+     {
+      "text": "Quang Trung đại phá quân Thanh vào năm nào?",
+      "options": [
+       "1075",
+       "1010",
+       "1945",
+       "1789"
+      ],
+      "correct_index": 3,
+      "explanation": "Chiến thắng Ngọc Hồi – Đống Đa năm 1789.",
+      "difficulty": 1
+     },
+     {
+      "text": "Chiến thắng Điện Biên Phủ diễn ra năm 1954.",
+      "options": [
+       "Đúng",
+       "Sai"
+      ],
+      "correct_index": 0,
+      "explanation": "Chiến thắng Điện Biên Phủ năm 1954.",
+      "difficulty": 1
+     },
+     {
+      "text": "Quốc khánh nước ta là ngày nào?",
+      "options": [
+       "19 tháng 8",
+       "1 tháng 5",
+       "30 tháng 4",
+       "2 tháng 9"
+      ],
+      "correct_index": 3,
+      "explanation": "Ngày 2/9/1945 Bác Hồ đọc Tuyên ngôn Độc lập.",
+      "difficulty": 1
+     }
+    ]
+   },
+   {
+    "name": "Văn hóa và danh lam",
+    "questions": [
+     {
+      "text": "Tết Trung thu thường có hoạt động nào?",
+      "options": [
+       "tảo mộ",
+       "bắn pháo hoa giao thừa",
+       "rước đèn, phá cỗ",
+       "gói bánh chưng"
+      ],
+      "correct_index": 2,
+      "explanation": "Trung thu là Tết của thiếu nhi.",
+      "difficulty": 1
+     },
+     {
+      "text": "Bánh chưng thường được gói vào dịp nào?",
+      "options": [
+       "Giỗ Tổ",
+       "Tết Trung thu",
+       "Tết Đoan Ngọ",
+       "Tết Nguyên đán"
+      ],
+      "correct_index": 3,
+      "explanation": "Bánh chưng là món truyền thống ngày Tết.",
+      "difficulty": 1
+     },
+     {
+      "text": "Quan họ là dân ca của vùng nào?",
+      "options": [
+       "Cần Thơ",
+       "Huế",
+       "Bắc Ninh",
+       "Đà Lạt"
+      ],
+      "correct_index": 2,
+      "explanation": "Dân ca quan họ là di sản của Bắc Ninh.",
+      "difficulty": 1
+     },
+     {
+      "text": "Giỗ Tổ Hùng Vương là ngày nào?",
+      "options": [
+       "15 tháng 8",
+       "10 tháng 3 âm lịch",
+       "5 tháng 5",
+       "1 tháng 1"
+      ],
+      "correct_index": 1,
+      "explanation": "“Dù ai đi ngược về xuôi, nhớ ngày giỗ Tổ mùng mười tháng ba.”",
+      "difficulty": 1
+     },
+     {
+      "text": "Văn Miếu – Quốc Tử Giám ở thành phố nào?",
+      "options": [
+       "Hà Nội",
+       "Huế",
+       "Hải Phòng",
+       "Cần Thơ"
+      ],
+      "correct_index": 0,
+      "explanation": "Đây là trường đại học đầu tiên của nước ta.",
+      "difficulty": 1
+     },
+     {
+      "text": "Cồng chiêng là nhạc cụ nổi tiếng của vùng nào?",
+      "options": [
+       "Nam Bộ",
+       "Đồng bằng Bắc Bộ",
+       "Tây Nguyên",
+       "Duyên hải miền Trung"
+      ],
+      "correct_index": 2,
+      "explanation": "Không gian văn hóa cồng chiêng Tây Nguyên là di sản thế giới.",
+      "difficulty": 1
+     },
+     {
+      "text": "Trang phục truyền thống của người Việt là gì?",
+      "options": [
+       "kimono",
+       "sari",
+       "hanbok",
+       "áo dài"
+      ],
+      "correct_index": 3,
+      "explanation": "Áo dài là trang phục truyền thống Việt Nam.",
+      "difficulty": 1
+     },
+     {
+      "text": "Đền Hùng ở tỉnh nào?",
+      "options": [
+       "Hà Nam",
+       "Yên Bái",
+       "Phú Thọ",
+       "Nghệ An"
+      ],
+      "correct_index": 2,
+      "explanation": "Đền Hùng thuộc tỉnh Phú Thọ.",
+      "difficulty": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Tiếng Anh",
+  "icon": "🔤",
+  "color": "#ff4f9a",
+  "topics": [
+   {
+    "name": "Animals & Colors",
+    "questions": [
+     {
+      "text": "“Cat” nghĩa là gì?",
+      "options": [
+       "con mèo",
+       "con chó",
+       "con cá",
+       "con gà"
+      ],
+      "correct_index": 0,
+      "explanation": "Cat = con mèo.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Dog” nghĩa là gì?",
+      "options": [
+       "con mèo",
+       "con gà",
+       "con cá",
+       "con chó"
+      ],
+      "correct_index": 3,
+      "explanation": "Dog = con chó.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Bird” nghĩa là gì?",
+      "options": [
+       "con khỉ",
+       "con voi",
+       "con bò",
+       "con chim"
+      ],
+      "correct_index": 3,
+      "explanation": "Bird = con chim.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Elephant” nghĩa là gì?",
+      "options": [
+       "con hổ",
+       "con thỏ",
+       "con voi",
+       "con khỉ"
+      ],
+      "correct_index": 2,
+      "explanation": "Elephant = con voi.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Rabbit” nghĩa là gì?",
+      "options": [
+       "con thỏ",
+       "con khỉ",
+       "con voi",
+       "con vịt"
+      ],
+      "correct_index": 0,
+      "explanation": "Rabbit = con thỏ.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Con cá” trong tiếng Anh là gì?",
+      "options": [
+       "cat",
+       "fish",
+       "cow",
+       "bird"
+      ],
+      "correct_index": 1,
+      "explanation": "Fish = con cá.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Con bò” trong tiếng Anh là gì?",
+      "options": [
+       "cow",
+       "horse",
+       "pig",
+       "duck"
+      ],
+      "correct_index": 0,
+      "explanation": "Cow = con bò.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Red” là màu gì?",
+      "options": [
+       "vàng",
+       "đỏ",
+       "tím",
+       "xanh dương"
+      ],
+      "correct_index": 1,
+      "explanation": "Red = màu đỏ.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Blue” là màu gì?",
+      "options": [
+       "xanh dương",
+       "vàng",
+       "đen",
+       "đỏ"
+      ],
+      "correct_index": 0,
+      "explanation": "Blue = xanh dương.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Yellow” là màu gì?",
+      "options": [
+       "hồng",
+       "vàng",
+       "trắng",
+       "xanh lá"
+      ],
+      "correct_index": 1,
+      "explanation": "Yellow = màu vàng.",
+      "difficulty": 1
+     },
+     {
+      "text": "Snow is ____.",
+      "options": [
+       "black",
+       "pink",
+       "green",
+       "white"
+      ],
+      "correct_index": 3,
+      "explanation": "Tuyết màu trắng (white).",
+      "difficulty": 1
+     },
+     {
+      "text": "The banana is ____.",
+      "options": [
+       "purple",
+       "gray",
+       "yellow",
+       "blue"
+      ],
+      "correct_index": 2,
+      "explanation": "Chuối chín màu vàng (yellow).",
+      "difficulty": 1
+     }
+    ]
+   },
+   {
+    "name": "Numbers & Family",
+    "questions": [
+     {
+      "text": "“Five” là số mấy?",
+      "options": [
+       "5",
+       "15",
+       "4",
+       "6"
+      ],
+      "correct_index": 0,
+      "explanation": "Five = 5.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Ten” là số mấy?",
+      "options": [
+       "20",
+       "1",
+       "9",
+       "10"
+      ],
+      "correct_index": 3,
+      "explanation": "Ten = 10.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Seven” là số mấy?",
+      "options": [
+       "6",
+       "8",
+       "7",
+       "17"
+      ],
+      "correct_index": 2,
+      "explanation": "Seven = 7.",
+      "difficulty": 1
+     },
+     {
+      "text": "Số 8 trong tiếng Anh là gì?",
+      "options": [
+       "eight",
+       "nine",
+       "eighteen",
+       "six"
+      ],
+      "correct_index": 0,
+      "explanation": "8 = eight.",
+      "difficulty": 1
+     },
+     {
+      "text": "Số 9 trong tiếng Anh là gì?",
+      "options": [
+       "ten",
+       "nineteen",
+       "nine",
+       "five"
+      ],
+      "correct_index": 2,
+      "explanation": "9 = nine.",
+      "difficulty": 1
+     },
+     {
+      "text": "Two + three = ?",
+      "options": [
+       "four",
+       "five",
+       "six",
+       "seven"
+      ],
+      "correct_index": 1,
+      "explanation": "2 + 3 = 5 (five).",
+      "difficulty": 1
+     },
+     {
+      "text": "“Mother” nghĩa là gì?",
+      "options": [
+       "bố",
+       "mẹ",
+       "bà",
+       "chị"
+      ],
+      "correct_index": 1,
+      "explanation": "Mother = mẹ.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Father” nghĩa là gì?",
+      "options": [
+       "ông",
+       "anh",
+       "bố",
+       "mẹ"
+      ],
+      "correct_index": 2,
+      "explanation": "Father = bố.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Sister” nghĩa là gì?",
+      "options": [
+       "chị/em gái",
+       "anh/em trai",
+       "cô",
+       "bà"
+      ],
+      "correct_index": 0,
+      "explanation": "Sister = chị hoặc em gái.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Brother” nghĩa là gì?",
+      "options": [
+       "ông",
+       "chị/em gái",
+       "anh/em trai",
+       "chú"
+      ],
+      "correct_index": 2,
+      "explanation": "Brother = anh hoặc em trai.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Grandmother” nghĩa là gì?",
+      "options": [
+       "bà",
+       "mẹ",
+       "cô",
+       "dì"
+      ],
+      "correct_index": 0,
+      "explanation": "Grandmother = bà.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Ông” trong tiếng Anh là gì?",
+      "options": [
+       "grandfather",
+       "father",
+       "brother",
+       "uncle"
+      ],
+      "correct_index": 0,
+      "explanation": "Grandfather = ông.",
+      "difficulty": 1
+     }
+    ]
+   },
+   {
+    "name": "School & Food",
+    "questions": [
+     {
+      "text": "“Book” nghĩa là gì?",
+      "options": [
+       "cái bút",
+       "cái bàn",
+       "cái ghế",
+       "quyển sách"
+      ],
+      "correct_index": 3,
+      "explanation": "Book = quyển sách.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Pencil” nghĩa là gì?",
+      "options": [
+       "thước kẻ",
+       "cục tẩy",
+       "bút chì",
+       "bút mực"
+      ],
+      "correct_index": 2,
+      "explanation": "Pencil = bút chì.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Teacher” nghĩa là gì?",
+      "options": [
+       "giáo viên",
+       "học sinh",
+       "công an",
+       "bác sĩ"
+      ],
+      "correct_index": 0,
+      "explanation": "Teacher = giáo viên.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Desk” nghĩa là gì?",
+      "options": [
+       "ghế",
+       "bàn học",
+       "bảng",
+       "cửa sổ"
+      ],
+      "correct_index": 1,
+      "explanation": "Desk = bàn học.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Cái cặp” trong tiếng Anh là gì?",
+      "options": [
+       "school bag",
+       "ruler",
+       "notebook",
+       "eraser"
+      ],
+      "correct_index": 0,
+      "explanation": "School bag = cặp sách.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Rice” nghĩa là gì?",
+      "options": [
+       "bánh mì",
+       "sữa",
+       "cơm/gạo",
+       "nước"
+      ],
+      "correct_index": 2,
+      "explanation": "Rice = cơm, gạo.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Bread” nghĩa là gì?",
+      "options": [
+       "trứng",
+       "cơm",
+       "bánh mì",
+       "cá"
+      ],
+      "correct_index": 2,
+      "explanation": "Bread = bánh mì.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Milk” nghĩa là gì?",
+      "options": [
+       "trà",
+       "nước cam",
+       "nước",
+       "sữa"
+      ],
+      "correct_index": 3,
+      "explanation": "Milk = sữa.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Apple” nghĩa là gì?",
+      "options": [
+       "quả cam",
+       "quả chuối",
+       "quả nho",
+       "quả táo"
+      ],
+      "correct_index": 3,
+      "explanation": "Apple = quả táo.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Nước” trong tiếng Anh là gì?",
+      "options": [
+       "water",
+       "tea",
+       "juice",
+       "milk"
+      ],
+      "correct_index": 0,
+      "explanation": "Water = nước.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Quả chuối” trong tiếng Anh là gì?",
+      "options": [
+       "grape",
+       "apple",
+       "banana",
+       "orange"
+      ],
+      "correct_index": 2,
+      "explanation": "Banana = quả chuối.",
+      "difficulty": 1
+     },
+     {
+      "text": "“Trứng” trong tiếng Anh là gì?",
+      "options": [
+       "fish",
+       "rice",
+       "egg",
+       "meat"
+      ],
+      "correct_index": 2,
+      "explanation": "Egg = quả trứng.",
+      "difficulty": 1
+     }
+    ]
+   },
+   {
+    "name": "Grammar cơ bản",
+    "questions": [
+     {
+      "text": "I ____ a student.",
+      "options": [
+       "is",
+       "be",
+       "are",
+       "am"
+      ],
+      "correct_index": 3,
+      "explanation": "Với “I” ta dùng “am”.",
+      "difficulty": 1
+     },
+     {
+      "text": "She ____ my sister.",
+      "options": [
+       "am",
+       "be",
+       "is",
+       "are"
+      ],
+      "correct_index": 2,
+      "explanation": "Với “she” ta dùng “is”.",
+      "difficulty": 1
+     },
+     {
+      "text": "They ____ happy.",
+      "options": [
+       "are",
+       "be",
+       "is",
+       "am"
+      ],
+      "correct_index": 0,
+      "explanation": "Với “they” ta dùng “are”.",
+      "difficulty": 1
+     },
+     {
+      "text": "There ____ a book on the desk.",
+      "options": [
+       "am",
+       "be",
+       "is",
+       "are"
+      ],
+      "correct_index": 2,
+      "explanation": "Một quyển sách (số ít) → “is”.",
+      "difficulty": 1
+     },
+     {
+      "text": "This is ____ apple.",
+      "options": [
+       "the",
+       "an",
+       "a",
+       "two"
+      ],
+      "correct_index": 1,
+      "explanation": "Trước nguyên âm (a, e, i, o, u) dùng “an”.",
+      "difficulty": 1
+     },
+     {
+      "text": "How are you? – I'm ____.",
+      "options": [
+       "yes, I do",
+       "fine, thank you",
+       "blue",
+       "I'm a book"
+      ],
+      "correct_index": 1,
+      "explanation": "Trả lời lịch sự khi được hỏi thăm.",
+      "difficulty": 1
+     },
+     {
+      "text": "What's your name? – ____ Lan.",
+      "options": [
+       "My name is",
+       "You are",
+       "She is",
+       "I have"
+      ],
+      "correct_index": 0,
+      "explanation": "Giới thiệu tên: “My name is …”.",
+      "difficulty": 1
+     },
+     {
+      "text": "He ____ football every day.",
+      "options": [
+       "plays",
+       "playing",
+       "play",
+       "to play"
+      ],
+      "correct_index": 0,
+      "explanation": "Chủ ngữ “he” → động từ thêm “s”.",
+      "difficulty": 1
+     },
+     {
+      "text": "How old are you? – I'm nine ____ old.",
+      "options": [
+       "yearly",
+       "years",
+       "age",
+       "year"
+      ],
+      "correct_index": 1,
+      "explanation": "I'm nine years old = Tôi chín tuổi.",
+      "difficulty": 1
+     },
+     {
+      "text": "Good morning! nghĩa là gì?",
+      "options": [
+       "Tạm biệt!",
+       "Cảm ơn!",
+       "Chào buổi sáng!",
+       "Chúc ngủ ngon!"
+      ],
+      "correct_index": 2,
+      "explanation": "Good morning = Chào buổi sáng.",
+      "difficulty": 1
+     }
+    ]
+   }
+  ]
+ }
+]
